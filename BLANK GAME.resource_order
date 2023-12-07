@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Sprite_Warning","order":11,"path":"sprites/Sprite_Warning/Sprite_Warning.yy",},
     {"name":"Sprite_demo_04","order":4,"path":"sprites/Sprite_demo_04/Sprite_demo_04.yy",},
     {"name":"Sprite_demo_money","order":9,"path":"sprites/Sprite_demo_money/Sprite_demo_money.yy",},
     {"name":"Sprite_demo_05","order":5,"path":"sprites/Sprite_demo_05/Sprite_demo_05.yy",},
@@ -11,6 +12,7 @@
     {"name":"Sprite_demo_02","order":2,"path":"sprites/Sprite_demo_02/Sprite_demo_02.yy",},
     {"name":"Sprite_demo_hp","order":10,"path":"sprites/Sprite_demo_hp/Sprite_demo_hp.yy",},
     {"name":"Obj_HP","order":1,"path":"objects/Obj_HP/Obj_HP.yy",},
+    {"name":"Obj_Warning","order":2,"path":"objects/Obj_Warning/Obj_Warning.yy",},
     {"name":"Sprite_demo_01","order":1,"path":"sprites/Sprite_demo_01/Sprite_demo_01.yy",},
   ],
 }
