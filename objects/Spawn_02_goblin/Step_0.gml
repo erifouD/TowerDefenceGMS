@@ -13,6 +13,10 @@ instance_create_layer(x - spawn_x , y -spawn_y , "Instances_0", Obj_mob_2);
 nTimer=0;
 spawn_mob2 +=1
 }}
+else
+{
+instance_destroy()
+}
 
 
 

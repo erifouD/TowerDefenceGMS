@@ -53,6 +53,7 @@
     {"id":{"name":"Spr_tower_02_03_menu","path":"sprites/Spr_tower_02_03_menu/Spr_tower_02_03_menu.yy",},},
     {"id":{"name":"Obj_tower_003_01_01","path":"objects/Obj_tower_003_01_01/Obj_tower_003_01_01.yy",},},
     {"id":{"name":"Sprite_demo10","path":"sprites/Sprite_demo10/Sprite_demo10.yy",},},
+    {"id":{"name":"Obj_STATUS","path":"objects/Obj_STATUS/Obj_STATUS.yy",},},
     {"id":{"name":"Obj_pause","path":"objects/Obj_pause/Obj_pause.yy",},},
     {"id":{"name":"Sprite_demo12102","path":"sprites/Sprite_demo12102/Sprite_demo12102.yy",},},
     {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},},

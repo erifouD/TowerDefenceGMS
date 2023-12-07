@@ -16,8 +16,10 @@ __dnd_health += real(-20);
 /// @DnDAction : YoYo Games.Instance Variables.If_Health
 /// @DnDVersion : 1
 /// @DnDHash : 589FD958
+/// @DnDArgument : "op" "3"
+/// @DnDArgument : "value" "1"
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
-if(__dnd_health == 0)
+if(__dnd_health <= 1)
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1

@@ -6,7 +6,9 @@ if (point_distance(x, y, ex, ey) < 150)
     move_towards_point( ex, ey, 2);
 	var drawlaser =1
 	
-	
+	if(global.status==0)
+	{instance_destroy();
+	}
 
 
 	

@@ -6,7 +6,7 @@ __dnd_health += real(-5);
 shine_damage=1;
 }}
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
-if(__dnd_health == 0)
+if(__dnd_health <= 1)
 {
 	global.score_money += +10;
 
