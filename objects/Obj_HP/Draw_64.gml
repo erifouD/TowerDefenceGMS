@@ -1,11 +1,11 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Instance_Score
+/// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
-/// @DnDHash : 0CA8DC4E
+/// @DnDHash : 7C74587A
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""
-if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-draw_text(x + 0, y + 0, string(__dnd_score));
+/// @DnDArgument : "var" "global.home_hp"
+draw_text(x + 0, y + 0,  + string(global.home_hp));
 
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1

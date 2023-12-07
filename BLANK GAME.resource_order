@@ -1,4 +1,16 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Sprite_demo_04","order":4,"path":"sprites/Sprite_demo_04/Sprite_demo_04.yy",},
+    {"name":"Sprite_demo_money","order":9,"path":"sprites/Sprite_demo_money/Sprite_demo_money.yy",},
+    {"name":"Sprite_demo_05","order":5,"path":"sprites/Sprite_demo_05/Sprite_demo_05.yy",},
+    {"name":"Sprite_demo_07","order":7,"path":"sprites/Sprite_demo_07/Sprite_demo_07.yy",},
+    {"name":"Sprite_demo_06","order":6,"path":"sprites/Sprite_demo_06/Sprite_demo_06.yy",},
+    {"name":"Sprite_demo_03","order":3,"path":"sprites/Sprite_demo_03/Sprite_demo_03.yy",},
+    {"name":"Sprite_demo_08","order":8,"path":"sprites/Sprite_demo_08/Sprite_demo_08.yy",},
+    {"name":"Sprite_demo_02","order":2,"path":"sprites/Sprite_demo_02/Sprite_demo_02.yy",},
+    {"name":"Sprite_demo_hp","order":10,"path":"sprites/Sprite_demo_hp/Sprite_demo_hp.yy",},
+    {"name":"Obj_HP","order":1,"path":"objects/Obj_HP/Obj_HP.yy",},
+    {"name":"Sprite_demo_01","order":1,"path":"sprites/Sprite_demo_01/Sprite_demo_01.yy",},
+  ],
 }
