@@ -176,6 +176,7 @@
     {"id":{"name":"Spr_tower_place_menu_exit","path":"sprites/Spr_tower_place_menu_exit/Spr_tower_place_menu_exit.yy",},},
     {"id":{"name":"Spr_tower_04_01","path":"sprites/Spr_tower_04_01/Spr_tower_04_01.yy",},},
     {"id":{"name":"Obj_tower_place_menu_OK","path":"objects/Obj_tower_place_menu_OK/Obj_tower_place_menu_OK.yy",},},
+    {"id":{"name":"Obj_Timer","path":"objects/Obj_Timer/Obj_Timer.yy",},},
     {"id":{"name":"spr_bg_w_2","path":"sprites/spr_bg_w_2/spr_bg_w_2.yy",},},
     {"id":{"name":"Font_tower_info","path":"fonts/Font_tower_info/Font_tower_info.yy",},},
     {"id":{"name":"Spawn_01_dragon","path":"objects/Spawn_01_dragon/Spawn_01_dragon.yy",},},
