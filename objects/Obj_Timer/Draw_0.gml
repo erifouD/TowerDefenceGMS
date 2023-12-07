@@ -11,7 +11,15 @@ if(global.status == 1)
 	/// @DnDParent : 6BB50B3C
 	/// @DnDArgument : "x_relative" "1"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "caption" ""Через: ""
+	/// @DnDArgument : "caption" ""
 	/// @DnDArgument : "var" "timer"
-	draw_text(x + 0, y + 0, string("Через: ") + string(timer));
+	draw_text(x + 0, y + 0,  + string(timer));
+
+	/// @DnDAction : YoYo Games.Drawing.Set_Font
+	/// @DnDVersion : 1
+	/// @DnDHash : 069CEDA0
+	/// @DnDParent : 6BB50B3C
+	/// @DnDArgument : "font" "Font_tower_info"
+	/// @DnDSaveInfo : "font" "Font_tower_info"
+	draw_set_font(Font_tower_info);
 }

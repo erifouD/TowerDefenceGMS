@@ -1,6 +1,6 @@
 spawn_ready = 1
-if wave == 1
-wave = 2
+if global.wave == 1
+global.wave = 2
 
 
 
