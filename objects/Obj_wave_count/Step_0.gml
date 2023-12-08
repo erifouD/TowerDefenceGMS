@@ -1,0 +1,1 @@
+wave = global.wave_count

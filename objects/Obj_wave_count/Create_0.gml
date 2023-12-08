@@ -1,5 +1,7 @@
-total_wave_lvl1 = 2
-wave = global.wave
+if(room == Room1){
+total_wave_lvl = 2
+}
+global.wave_count = 1
 
 
 
