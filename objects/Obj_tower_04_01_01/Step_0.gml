@@ -9,7 +9,7 @@ if (nTimer>room_speed){
 
 if distance_to_object(Obj_MOB) < 150 {
 
-instance_create_layer(x+20 , y-50 , "Instances_2", Obj_ammo_04_shine);
+instance_create_layer(x+20 , y-50 , "Instances_2", Obj_ammo_01_shine);
 nTimer=0;
 
 // Setup:
