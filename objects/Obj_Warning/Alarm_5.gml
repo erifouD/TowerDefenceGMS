@@ -1,4 +1,6 @@
 
+// Spawn LVL1
+if global.lvl == 1{
 // Spawn LVL1 Волна 1
 if global.wave == 1{
 
@@ -13,7 +15,7 @@ instance_create_layer(x +15, y + 55, "Instances_1", Spawn_02_goblin);
 instance_create_layer(x +15, y + 55, "Instances_1", Spawn_03_boss_knight);
 
 }
-
+}
 
 
 
