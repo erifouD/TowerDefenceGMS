@@ -10,6 +10,6 @@ draw_text(x + 0, y + 0,  + string(global.home_hp));
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 0B2C77B2
-/// @DnDArgument : "font" "Font_tower_info"
-/// @DnDSaveInfo : "font" "Font_tower_info"
-draw_set_font(Font_tower_info);
+/// @DnDArgument : "font" "Font_timer"
+/// @DnDSaveInfo : "font" "Font_timer"
+draw_set_font(Font_timer);

@@ -34,6 +34,6 @@ draw_text_transformed(x + 230, y + -33, "" + string(0), 1, 1, 0);
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 07226871
-/// @DnDArgument : "font" "Font_tower_info"
-/// @DnDSaveInfo : "font" "Font_tower_info"
-draw_set_font(Font_tower_info);
+/// @DnDArgument : "font" "Font_timer"
+/// @DnDSaveInfo : "font" "Font_timer"
+draw_set_font(Font_timer);

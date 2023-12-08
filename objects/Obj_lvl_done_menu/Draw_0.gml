@@ -1,8 +1,13 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 3088B14C
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "Spr_lvl_done_menu"
-/// @DnDSaveInfo : "sprite" "Spr_lvl_done_menu"
 draw_sprite(Spr_lvl_done_menu, 0, x + 0, y + 0);
+
+if global.lvl_stars == 0
+draw_sprite(Spr_stars_00, 0, x + 50, y + 75);
+
+else if global.lvl_stars == 1
+draw_sprite(Spr_stars_01, 0, x + 50, y + 75);
+
+else if global.lvl_stars == 2
+draw_sprite(Spr_stars_02, 0, x + 50, y + 75);
+
+else if global.lvl_stars == 3
+draw_sprite(Spr_stars_03, 0, x + 50, y + 75);

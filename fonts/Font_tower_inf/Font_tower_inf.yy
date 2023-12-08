@@ -1,7 +1,7 @@
 {
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
-  "name": "Font_tower_info",
+  "name": "Font_tower_inf",
   "AntiAlias": 1,
   "applyKerning": 0,
   "ascender": 15,

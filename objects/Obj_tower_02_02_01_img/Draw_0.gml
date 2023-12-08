@@ -55,4 +55,4 @@ draw_text_transformed(x + 230, y + -33, "" + string(4), 1, 1, 0);
 /// @DnDHash : 07226871
 /// @DnDArgument : "font" "Font_tower_info"
 /// @DnDSaveInfo : "font" "Font_tower_info"
-draw_set_font(Font_tower_info);
+draw_set_font(Font_timer);
