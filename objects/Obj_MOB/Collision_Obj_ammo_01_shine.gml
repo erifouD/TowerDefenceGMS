@@ -2,7 +2,7 @@ hp_on = 1;
 
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;{
 	if shine_damage == 0{
-__dnd_health += real(-5);
+__dnd_health += real(-15);
 shine_damage=1;
 }}
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
