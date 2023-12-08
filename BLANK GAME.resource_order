@@ -44,7 +44,7 @@
     {"name":"Obj_ammo_03_fire","order":4,"path":"objects/Obj_ammo_03_fire/Obj_ammo_03_fire.yy",},
     {"name":"Obj_Warning","order":2,"path":"objects/Obj_Warning/Obj_Warning.yy",},
     {"name":"Sprite_demo_01","order":1,"path":"sprites/Sprite_demo_01/Sprite_demo_01.yy",},
-    {"name":"Font_tower_inf","order":1,"path":"fonts/Font_tower_inf/Font_tower_inf.yy",},
+    {"name":"Font_tower_info","order":1,"path":"fonts/Font_tower_info/Font_tower_info.yy",},
     {"name":"Obj_ammo_03_big","order":6,"path":"objects/Obj_ammo_03_big/Obj_ammo_03_big.yy",},
   ],
 }
