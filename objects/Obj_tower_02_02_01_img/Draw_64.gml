@@ -7,27 +7,6 @@
 /// @DnDSaveInfo : "sprite" "Spr_tower_02_02"
 draw_sprite(Spr_tower_02_02, 0, x + 0, y + 0);
 
-/// @DnDAction : YoYo Games.Particles.Effect
-/// @DnDVersion : 1
-/// @DnDHash : 05F75881
-/// @DnDArgument : "x" "30"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-50"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "type" "5"
-/// @DnDArgument : "color" "$FF0616CE"
-effect_create_below(5, x + 30, y + -50, 0, $FF0616CE & $ffffff);
-
-/// @DnDAction : YoYo Games.Particles.Effect
-/// @DnDVersion : 1
-/// @DnDHash : 220C7205
-/// @DnDArgument : "x" "30"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-50"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "color" "$FF0616CE"
-effect_create_below(0, x + 30, y + -50, 0, $FF0616CE & $ffffff);
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
 /// @DnDHash : 0854DBC6
@@ -54,5 +33,4 @@ draw_text_transformed(x + 230, y + -33, "" + string(4), 1, 1, 0);
 /// @DnDVersion : 1
 /// @DnDHash : 07226871
 /// @DnDArgument : "font" "Font_tower_info"
-/// @DnDSaveInfo : "font" "Font_tower_info"
-draw_set_font(Font_timer);
+draw_set_font(Font_tower_info);

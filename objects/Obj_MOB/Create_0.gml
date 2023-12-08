@@ -9,4 +9,3 @@ nTimer1 = 0;
 
 
 
-__dnd_health = real(100);
