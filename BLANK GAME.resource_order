@@ -1,10 +1,12 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Spr_stars_02","order":15,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},
     {"name":"spr_bg_w_21","order":5,"path":"sprites/spr_bg_w_21/spr_bg_w_21.yy",},
     {"name":"Obj_STATUS","order":4,"path":"objects/Obj_STATUS/Obj_STATUS.yy",},
     {"name":"Room_0_lvl","order":1,"path":"rooms/Room_0_lvl/Room_0_lvl.yy",},
     {"name":"Sprite_Warning","order":11,"path":"sprites/Sprite_Warning/Sprite_Warning.yy",},
+    {"name":"Obj_LVL_00_INFO","order":7,"path":"objects/Obj_LVL_00_INFO/Obj_LVL_00_INFO.yy",},
     {"name":"Obj_lvl1","order":6,"path":"objects/Obj_lvl1/Obj_lvl1.yy",},
     {"name":"Sprite_demo_04","order":4,"path":"sprites/Sprite_demo_04/Sprite_demo_04.yy",},
     {"name":"spr_bg_w_17","order":1,"path":"sprites/spr_bg_w_17/spr_bg_w_17.yy",},
@@ -14,6 +16,7 @@
     {"name":"Sprite_demo_07","order":7,"path":"sprites/Sprite_demo_07/Sprite_demo_07.yy",},
     {"name":"Sprite_demo_06","order":6,"path":"sprites/Sprite_demo_06/Sprite_demo_06.yy",},
     {"name":"Sprite_demo_03","order":3,"path":"sprites/Sprite_demo_03/Sprite_demo_03.yy",},
+    {"name":"Obj_lvl_done_check","order":8,"path":"objects/Obj_lvl_done_check/Obj_lvl_done_check.yy",},
     {"name":"spr_bg_w_18","order":2,"path":"sprites/spr_bg_w_18/spr_bg_w_18.yy",},
     {"name":"Obj_wave_count","order":5,"path":"objects/Obj_wave_count/Obj_wave_count.yy",},
     {"name":"Sprite_demo_wave","order":12,"path":"sprites/Sprite_demo_wave/Sprite_demo_wave.yy",},
@@ -22,6 +25,7 @@
     {"name":"Sprite_demo_08","order":8,"path":"sprites/Sprite_demo_08/Sprite_demo_08.yy",},
     {"name":"spr_bg_w_19","order":3,"path":"sprites/spr_bg_w_19/spr_bg_w_19.yy",},
     {"name":"Sprite_demo_02","order":2,"path":"sprites/Sprite_demo_02/Sprite_demo_02.yy",},
+    {"name":"Spr_stars_00","order":14,"path":"sprites/Spr_stars_00/Spr_stars_00.yy",},
     {"name":"Sprite_demo_hp","order":10,"path":"sprites/Sprite_demo_hp/Sprite_demo_hp.yy",},
     {"name":"Obj_HP","order":1,"path":"objects/Obj_HP/Obj_HP.yy",},
     {"name":"Obj_Warning","order":2,"path":"objects/Obj_Warning/Obj_Warning.yy",},

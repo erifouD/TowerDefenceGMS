@@ -1,8 +1,8 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 02C43219
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "sprite" "Spr_lvl1"
-/// @DnDSaveInfo : "sprite" "Spr_lvl1"
 draw_sprite(Spr_lvl1, 0, x + 0, y + 0);
+
+
+if global.lvl_stars == 0
+draw_sprite(Spr_stars_00, 0, x + -50, y + -75);
+
+else if global.lvl_stars == 2
+draw_sprite(Spr_stars_02, 0, x + -50, y + -75);

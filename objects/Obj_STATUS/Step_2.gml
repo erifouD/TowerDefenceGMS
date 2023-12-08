@@ -1,6 +1,6 @@
 global.status = instance_number(Obj_MOB);
 
-if (global.status == 1){
+if (global.status == 1 ){
 if !object_get_visible(Obj_Warning)
 object_set_visible (Obj_Warning, true )
 
@@ -11,4 +11,12 @@ object_set_visible (Obj_Timer, true )
 else {
 object_set_visible (Obj_Warning, false )
 object_set_visible (Obj_Timer, false )
+}
+
+if (global.new_wave == 1 ){
+if !object_get_visible(Obj_lvl_done_check)
+object_set_visible (Obj_lvl_done_check, true )
+}
+else {
+object_set_visible (Obj_lvl_done_check, false )
 }
