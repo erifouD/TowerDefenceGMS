@@ -14,5 +14,23 @@ nTimer=0;
 }
 
 
+if(life_damag == 1){
+nTimer1+=fps/room_speed
+if (nTimer1>room_speed){
+	nTimer1=0;
+
+	
+	if global.home_hp >0 {
+	
+	global.home_hp += real(-20);
+	
+	}
+	
+}
+}
+
+
+
+
 
 

@@ -4,6 +4,7 @@ hp_on = 0
 ice_damage = 0
 shine_damage=0
 nTimer = 0;
+nTimer1 = 0;
 
 
 
