@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "Done_menu",
+    "path": "folders/Объекты/Done_menu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
