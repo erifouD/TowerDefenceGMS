@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Спрайты",
-    "path": "folders/Спрайты.yy",
+    "name": "Tower_place",
+    "path": "folders/Спрайты/Tower_place.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
