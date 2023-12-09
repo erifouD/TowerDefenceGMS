@@ -39,8 +39,8 @@
   "solid": false,
   "spriteId": null,
   "spriteMaskId": {
-    "name": "Spr_mob_03_top",
-    "path": "sprites/Spr_mob_03_top/Spr_mob_03_top.yy",
+    "name": "Spr_mob_03_left",
+    "path": "sprites/Spr_mob_03_left/Spr_mob_03_left.yy",
   },
   "visible": true,
 }

@@ -10,6 +10,6 @@ if (point_distance(x, y, ex, ey) < 150 && big_ammo_ready == 0)
 }   
 	if path_position == 1 && big_ammo_ready ==1{
 	path_end();
-	move_towards_point(ex+30, ey+30, 4);	
+	move_towards_point(ex+30, ey+30, 5);	
 	}
 
