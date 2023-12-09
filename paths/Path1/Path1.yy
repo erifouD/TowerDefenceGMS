@@ -5,8 +5,8 @@
   "closed": false,
   "kind": 0,
   "parent": {
-    "name": "BLANK GAME",
-    "path": "BLANK GAME.yyp",
+    "name": "Пути",
+    "path": "folders/Пути.yy",
   },
   "points": [
     {"speed":100.0,"x":480.0,"y":768.0,},

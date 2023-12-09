@@ -23,6 +23,19 @@ global.wave = 0
 
 
 
+// Spawn LVL2
+if global.lvl == 2{
+// Spawn LVL2 Волна 1
+if global.wave == 1{
+global.new_wave = 0
+global.wave_count = 1
+instance_create_layer(x +15, y + 55, "Instances_1", Spawn_02_goblin);
+
+
+}}
+
+
+
 
 
 
