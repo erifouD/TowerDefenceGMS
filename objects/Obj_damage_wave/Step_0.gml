@@ -7,6 +7,7 @@ AOE_life = room_speed/20
 
 with(Obj_damage_wave) instance_destroy();
 with(Obj_ammo_01_big) instance_destroy();
+
 nTimer=0;
 }
 

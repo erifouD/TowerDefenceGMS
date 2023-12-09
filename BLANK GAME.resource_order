@@ -23,6 +23,7 @@
     {"name":"Obj_ammo_02_fire","order":3,"path":"objects/Obj_ammo_02_fire/Obj_ammo_02_fire.yy",},
     {"name":"Spr_stars_03","order":19,"path":"sprites/Spr_stars_03/Spr_stars_03.yy",},
     {"name":"Sprite_demo_07","order":7,"path":"sprites/Sprite_demo_07/Sprite_demo_07.yy",},
+    {"name":"Room2","order":2,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite_demo_06","order":6,"path":"sprites/Sprite_demo_06/Sprite_demo_06.yy",},
     {"name":"Obj_lvl_done_menu_restart","order":3,"path":"objects/Obj_lvl_done_menu_restart/Obj_lvl_done_menu_restart.yy",},
     {"name":"Spr_stars_01","order":18,"path":"sprites/Spr_stars_01/Spr_stars_01.yy",},

@@ -142,6 +142,7 @@
     {"id":{"name":"Sprite_demo_07","path":"sprites/Sprite_demo_07/Sprite_demo_07.yy",},},
     {"id":{"name":"Obj_towermenu_1","path":"objects/Obj_towermenu_1/Obj_towermenu_1.yy",},},
     {"id":{"name":"Spr_mob_01_down","path":"sprites/Spr_mob_01_down/Spr_mob_01_down.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Sprite_demo8","path":"sprites/Sprite_demo8/Sprite_demo8.yy",},},
     {"id":{"name":"Obj_tower_02_02_menu","path":"objects/Obj_tower_02_02_menu/Obj_tower_02_02_menu.yy",},},
     {"id":{"name":"spr_bg_w_1","path":"sprites/spr_bg_w_1/spr_bg_w_1.yy",},},
@@ -320,6 +321,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room_0_lvl","path":"rooms/Room_0_lvl/Room_0_lvl.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
