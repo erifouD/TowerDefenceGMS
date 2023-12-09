@@ -1,5 +1,5 @@
 
-spawn_time = fps
+spawn_time = fps/6
 
 
 nTimer+=spawn_time/room_speed

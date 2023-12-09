@@ -8,4 +8,4 @@ if (point_distance(x, y, ex, ey) < 150)
 	else {
 	instance_destroy();
 	}
-	
+

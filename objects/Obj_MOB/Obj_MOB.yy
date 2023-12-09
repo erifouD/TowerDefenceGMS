@@ -20,6 +20,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_ammo_03_big","path":"objects/Obj_ammo_03_big/Obj_ammo_03_big.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_ammo_02_shine","path":"objects/Obj_ammo_02_shine/Obj_ammo_02_shine.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_ammo_03_shine","path":"objects/Obj_ammo_03_shine/Obj_ammo_03_shine.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"Obj_damage_wave","path":"objects/Obj_damage_wave/Obj_damage_wave.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

@@ -6,11 +6,14 @@ object_set_visible (Obj_Warning, true )
 
 if !object_get_visible(Obj_Timer)
 object_set_visible (Obj_Timer, true )
+
+
 }
 
 else {
 object_set_visible (Obj_Warning, false )
 object_set_visible (Obj_Timer, false )
+
 }
 
 if (global.new_wave == 1 ){
