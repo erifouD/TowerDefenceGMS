@@ -1,6 +1,6 @@
 global.status = instance_number(Obj_MOB);
 
-if (global.status == 1 && global.last_wave != 1 ){
+if (global.status == 1 && global.last_wave != 1 && room != Room_0_lvl && global.new_wave!=1){
 if !object_get_visible(Obj_Warning)
 object_set_visible (Obj_Warning, true )
 

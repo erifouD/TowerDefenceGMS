@@ -11,7 +11,7 @@ if nTimer>room_speed  {
 timer += -1
 nTimer=0;}
 else {
-timer = 5
+timer = 6
 nTimer=0;}
 }
 
