@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Спрайты",
-    "path": "folders/Спрайты.yy",
+    "name": "Road",
+    "path": "folders/Спрайты/Road.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
