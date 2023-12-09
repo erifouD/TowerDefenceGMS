@@ -192,6 +192,7 @@
     {"id":{"name":"Sprite62","path":"sprites/Sprite62/Sprite62.yy",},},
     {"id":{"name":"Spr_tower_04_01_menu","path":"sprites/Spr_tower_04_01_menu/Spr_tower_04_01_menu.yy",},},
     {"id":{"name":"Obj_tower_02_02_01","path":"objects/Obj_tower_02_02_01/Obj_tower_02_02_01.yy",},},
+    {"id":{"name":"Obj_lvl_done_menu_next","path":"objects/Obj_lvl_done_menu_next/Obj_lvl_done_menu_next.yy",},},
     {"id":{"name":"Spr_tower_04_02","path":"sprites/Spr_tower_04_02/Spr_tower_04_02.yy",},},
     {"id":{"name":"Spr_mob_03_top","path":"sprites/Spr_mob_03_top/Spr_mob_03_top.yy",},},
     {"id":{"name":"spr_bg_w_11","path":"sprites/spr_bg_w_11/spr_bg_w_11.yy",},},

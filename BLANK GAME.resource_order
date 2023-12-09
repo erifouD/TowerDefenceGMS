@@ -32,6 +32,7 @@
     {"name":"Sprite_demo_03","order":3,"path":"sprites/Sprite_demo_03/Sprite_demo_03.yy",},
     {"name":"Spr_lvl_done_menu_button","order":17,"path":"sprites/Spr_lvl_done_menu_button/Spr_lvl_done_menu_button.yy",},
     {"name":"spr_bg_w_18","order":2,"path":"sprites/spr_bg_w_18/spr_bg_w_18.yy",},
+    {"name":"Obj_lvl_done_menu_next","order":4,"path":"objects/Obj_lvl_done_menu_next/Obj_lvl_done_menu_next.yy",},
     {"name":"Obj_wave_count","order":5,"path":"objects/Obj_wave_count/Obj_wave_count.yy",},
     {"name":"Spr_damage_wave","order":21,"path":"sprites/Spr_damage_wave/Spr_damage_wave.yy",},
     {"name":"Sprite_demo_wave","order":12,"path":"sprites/Sprite_demo_wave/Sprite_demo_wave.yy",},
