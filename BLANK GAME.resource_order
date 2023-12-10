@@ -39,6 +39,7 @@
     {"name":"Font3","order":2,"path":"fonts/Font3/Font3.yy",},
     {"name":"Sprite_grass_01","order":50,"path":"sprites/Sprite_grass_01/Sprite_grass_01.yy",},
     {"name":"Spr_tower_02_03","order":49,"path":"sprites/Spr_tower_02_03/Spr_tower_02_03.yy",},
+    {"name":"Spr_bg_1_49","order":25,"path":"sprites/Spr_bg_1_49/Spr_bg_1_49.yy",},
     {"name":"Spr_bg_1_14","order":4,"path":"sprites/Spr_bg_1_14/Spr_bg_1_14.yy",},
     {"name":"Spr_cicle_wait","order":84,"path":"sprites/Spr_cicle_wait/Spr_cicle_wait.yy",},
     {"name":"Sprite_demo156","order":86,"path":"sprites/Sprite_demo156/Sprite_demo156.yy",},

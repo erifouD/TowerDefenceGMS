@@ -105,6 +105,7 @@
     {"id":{"name":"Spr_tower_02_03","path":"sprites/Spr_tower_02_03/Spr_tower_02_03.yy",},},
     {"id":{"name":"Obj_tower_tower_03_03_menu","path":"objects/Obj_tower_tower_03_03_menu/Obj_tower_tower_03_03_menu.yy",},},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
+    {"id":{"name":"Spr_bg_1_49","path":"sprites/Spr_bg_1_49/Spr_bg_1_49.yy",},},
     {"id":{"name":"Spr_bg_1_14","path":"sprites/Spr_bg_1_14/Spr_bg_1_14.yy",},},
     {"id":{"name":"Spr_bg_1_1","path":"sprites/Spr_bg_1_1/Spr_bg_1_1.yy",},},
     {"id":{"name":"Spr_cicle_wait","path":"sprites/Spr_cicle_wait/Spr_cicle_wait.yy",},},
