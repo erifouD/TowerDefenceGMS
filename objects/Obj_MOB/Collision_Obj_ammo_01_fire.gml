@@ -8,10 +8,10 @@ hp_on = 1;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 68FB309A
-/// @DnDArgument : "health" "-3"
+/// @DnDArgument : "health" "-0.03"
 /// @DnDArgument : "health_relative" "1"
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
-__dnd_health += real(-3);
+__dnd_health += real(-0.03);
 
 /// @DnDAction : YoYo Games.Instance Variables.If_Health
 /// @DnDVersion : 1

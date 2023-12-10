@@ -15,10 +15,10 @@ ice_damage = 1;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 68FB309A
-/// @DnDArgument : "health" "-45"
+/// @DnDArgument : "health" "-2.1"
 /// @DnDArgument : "health_relative" "1"
 if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
-__dnd_health += real(-45);
+__dnd_health += real(-2.1);
 
 /// @DnDAction : YoYo Games.Instance Variables.If_Health
 /// @DnDVersion : 1

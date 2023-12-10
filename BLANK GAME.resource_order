@@ -1,14 +1,15 @@
 {
   "FolderOrderSettings": [
     {"name":"Done_menu","order":12,"path":"folders/Объекты/Done_menu.yy",},
-    {"name":"Road","order":25,"path":"folders/Спрайты/Road.yy",},
     {"name":"Grass","order":26,"path":"folders/Спрайты/Grass.yy",},
+    {"name":"Road","order":25,"path":"folders/Спрайты/Road.yy",},
     {"name":"Tower_place","order":27,"path":"folders/Спрайты/Tower_place.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_stars_02","order":15,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},
     {"name":"spr_bg_w_21","order":5,"path":"sprites/spr_bg_w_21/spr_bg_w_21.yy",},
     {"name":"Obj_ammo_02_big","order":5,"path":"objects/Obj_ammo_02_big/Obj_ammo_02_big.yy",},
+    {"name":"Sprite_frences","order":10,"path":"sprites/Sprite_frences/Sprite_frences.yy",},
     {"name":"Obj_STATUS","order":4,"path":"objects/Obj_STATUS/Obj_STATUS.yy",},
     {"name":"Sprite_demo12102","order":3,"path":"sprites/Sprite_demo12102/Sprite_demo12102.yy",},
     {"name":"Room_0_lvl","order":1,"path":"rooms/Room_0_lvl/Room_0_lvl.yy",},
