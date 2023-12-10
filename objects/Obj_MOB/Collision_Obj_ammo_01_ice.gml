@@ -4,7 +4,7 @@ ice_damage = 1;
 health_new += real(-1.1);
 pc = (health_new / health) * 100;
 
-if(health_new <= 1)
+if(health_new <= 0)
 {
 	global.score_money += +10;
 
