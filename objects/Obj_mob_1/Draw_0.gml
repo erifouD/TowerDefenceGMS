@@ -1,3 +1,5 @@
+event_inherited();
+
 if(direction > 90 && direction < 270)
 	draw_sprite_ext(Spr_mob_01_left, 1-9, x + 30, y + 30, 1, 1, 0, $FFFFFF & $ffffff, 1);
 
