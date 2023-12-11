@@ -123,6 +123,7 @@
     {"id":{"name":"Sprite61","path":"sprites/Sprite61/Sprite61.yy",},},
     {"id":{"name":"Spr_place_1","path":"sprites/Spr_place_1/Spr_place_1.yy",},},
     {"id":{"name":"Obj_tower_place_menu","path":"objects/Obj_tower_place_menu/Obj_tower_place_menu.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"spr_bg_w_17","path":"sprites/spr_bg_w_17/spr_bg_w_17.yy",},},
     {"id":{"name":"Spr_lvl_done_menu","path":"sprites/Spr_lvl_done_menu/Spr_lvl_done_menu.yy",},},
     {"id":{"name":"Spr_bg_1_7","path":"sprites/Spr_bg_1_7/Spr_bg_1_7.yy",},},
@@ -363,6 +364,7 @@
     {"roomId":{"name":"Room_0_lvl","path":"rooms/Room_0_lvl/Room_0_lvl.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

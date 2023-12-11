@@ -55,6 +55,7 @@
     {"name":"Sprite_demo_04","order":68,"path":"sprites/Sprite_demo_04/Sprite_demo_04.yy",},
     {"name":"Sprite61","order":5,"path":"sprites/Sprite61/Sprite61.yy",},
     {"name":"Spr_place_1","order":45,"path":"sprites/Spr_place_1/Spr_place_1.yy",},
+    {"name":"Room3","order":3,"path":"rooms/Room3/Room3.yy",},
     {"name":"spr_bg_w_17","order":1,"path":"sprites/spr_bg_w_17/spr_bg_w_17.yy",},
     {"name":"Spr_lvl_done_menu","order":80,"path":"sprites/Spr_lvl_done_menu/Spr_lvl_done_menu.yy",},
     {"name":"Spr_bg_1_7","order":13,"path":"sprites/Spr_bg_1_7/Spr_bg_1_7.yy",},
