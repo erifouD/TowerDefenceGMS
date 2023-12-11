@@ -1,4 +1,12 @@
 
+if place_empty(x, y, Obj_tower_tower_02_03_menu) {
+    effect_create_below(5, x + 30, y + -50, 0, $FF0616CE & $ffffff);
+
+effect_create_below(0, x + 30, y + -50, 0, $FF0616CE & $ffffff);
+}
+else {	
+	effect_clear()
+}
 spawn_time = fps
 
 

@@ -1,10 +1,14 @@
 
-
-if(tower_open == 0){
-effect_create_below(5, x + 30, y + -50, 0, $FF0616CE & $ffffff);
+if !place_meeting(x, y, Obj_tower_tower_02_01_menu)
+{
+    effect_create_below(5, x + 30, y + -50, 0, $FF0616CE & $ffffff);
 
 effect_create_below(0, x + 30, y + -50, 0, $FF0616CE & $ffffff);
 }
+else {	
+	
+}
+
 
 
 
@@ -22,6 +26,7 @@ instance_create_layer(x+20 , y-50 , "Instances_2", Obj_ammo_01_fire);
 nTimer=0;
 
 }}
+
 
 
 

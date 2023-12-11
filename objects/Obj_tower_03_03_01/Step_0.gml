@@ -1,3 +1,9 @@
+if !place_meeting(x, y, Obj_tower_tower_03_03_menu) {
+    effect_create_below(7, x + 30, y + -30, 0, $FFCCD23F & $ffffff);
+}
+else {	
+	effect_clear()
+}
 
 spawn_time = fps
 
