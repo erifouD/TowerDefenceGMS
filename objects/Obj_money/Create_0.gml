@@ -8,6 +8,6 @@ __dnd_score = real(2000);
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 227F82ED
-/// @DnDArgument : "value" "__dnd_score"
+/// @DnDArgument : "value" "2000"
 /// @DnDArgument : "var" "score_money"
-global.score_money = __dnd_score;
+global.score_money = 2000;
