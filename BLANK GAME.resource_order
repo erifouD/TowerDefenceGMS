@@ -7,6 +7,7 @@
     {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
     {"name":"GM Fixes and Tweaks","order":1,"path":"folders/Scripts/GM Fixes and Tweaks.yy",},
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
+    {"name":"AOE and System menu","order":18,"path":"folders/Объекты/AOE and System menu.yy",},
     {"name":"Done_menu","order":12,"path":"folders/Объекты/Done_menu.yy",},
     {"name":"Fire","order":60,"path":"folders/Спрайты/Fire.yy",},
     {"name":"Grass","order":88,"path":"folders/Спрайты/Grass.yy",},
@@ -17,7 +18,6 @@
     {"name":"Road","order":87,"path":"folders/Спрайты/Road.yy",},
     {"name":"Tower_place","order":89,"path":"folders/Спрайты/Tower_place.yy",},
     {"name":"Water","order":64,"path":"folders/Спрайты/Water.yy",},
-    {"name":"AOE and System menu","order":18,"path":"folders/Объекты/AOE and System menu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_stars_02","order":79,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},
