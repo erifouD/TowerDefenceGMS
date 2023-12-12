@@ -5,3 +5,4 @@ health = real(15);
 health_new = real(15);
 home_dmg = real(-15);
 my_price = 15
+my_price_img = Obj_score_15
