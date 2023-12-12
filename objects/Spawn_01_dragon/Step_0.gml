@@ -2,7 +2,7 @@ nTimer+=fps/room_speed
 
 
 
-
+if global.pause_ok == 0{
 if (nTimer>room_speed)
 if spawn_mob1 < 7{
 	spawn_x = (random_range(0, 15));
@@ -16,6 +16,7 @@ spawn_mob1 +=1
 else
 {
 instance_destroy()
+}
 }
 
 

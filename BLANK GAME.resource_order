@@ -1,7 +1,11 @@
 {
   "FolderOrderSettings": [
+    {"name":"Extensions","order":4,"path":"folders/Extensions.yy",},
     {"name":"Objects","order":1,"path":"folders/Objects.yy",},
+    {"name":"Buttons","order":1,"path":"folders/Objects/Buttons.yy",},
+    {"name":"Ads","order":1,"path":"folders/Objects/Buttons/Ads.yy",},
     {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
+    {"name":"GM Fixes and Tweaks","order":1,"path":"folders/Scripts/GM Fixes and Tweaks.yy",},
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
     {"name":"Done_menu","order":12,"path":"folders/Объекты/Done_menu.yy",},
     {"name":"Fire","order":60,"path":"folders/Спрайты/Fire.yy",},
@@ -13,10 +17,6 @@
     {"name":"Road","order":87,"path":"folders/Спрайты/Road.yy",},
     {"name":"Tower_place","order":89,"path":"folders/Спрайты/Tower_place.yy",},
     {"name":"Water","order":64,"path":"folders/Спрайты/Water.yy",},
-    {"name":"Extensions","order":4,"path":"folders/Extensions.yy",},
-    {"name":"Buttons","order":1,"path":"folders/Objects/Buttons.yy",},
-    {"name":"Ads","order":1,"path":"folders/Objects/Buttons/Ads.yy",},
-    {"name":"GM Fixes and Tweaks","order":1,"path":"folders/Scripts/GM Fixes and Tweaks.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_stars_02","order":79,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},
@@ -146,6 +146,7 @@
     {"name":"Ammo_01_big","order":19,"path":"sprites/Ammo_01_big/Ammo_01_big.yy",},
     {"name":"Sprite_demo_02","order":66,"path":"sprites/Sprite_demo_02/Sprite_demo_02.yy",},
     {"name":"Spr_tower_1","order":18,"path":"sprites/Spr_tower_1/Spr_tower_1.yy",},
+    {"name":"Obj_pause_button","order":14,"path":"objects/Obj_pause_button/Obj_pause_button.yy",},
     {"name":"Spr_tower_place_menu_lvl2","order":17,"path":"sprites/Spr_tower_place_menu_lvl2/Spr_tower_place_menu_lvl2.yy",},
     {"name":"Sprite_demo5","order":7,"path":"sprites/Sprite_demo5/Sprite_demo5.yy",},
     {"name":"Spr_tower_place_menu","order":16,"path":"sprites/Spr_tower_place_menu/Spr_tower_place_menu.yy",},
@@ -200,6 +201,7 @@
     {"name":"Spr_bg_1_17","order":7,"path":"sprites/Spr_bg_1_17/Spr_bg_1_17.yy",},
     {"name":"Font_tower_info","order":1,"path":"fonts/Font_tower_info/Font_tower_info.yy",},
     {"name":"Spr_tower_04_02_menu","order":1,"path":"sprites/Spr_tower_04_02_menu/Spr_tower_04_02_menu.yy",},
+    {"name":"Spr_pause_button","order":95,"path":"sprites/Spr_pause_button/Spr_pause_button.yy",},
     {"name":"Obj_ammo_03_big","order":6,"path":"objects/Obj_ammo_03_big/Obj_ammo_03_big.yy",},
   ],
 }

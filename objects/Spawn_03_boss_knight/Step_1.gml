@@ -2,7 +2,7 @@ spawn_speed = fps*1.4
 nTimer+=spawn_speed/room_speed
 
 
-
+if global.pause_ok == 0{
 
 if (nTimer>room_speed)
 if spawn_mob2 < 1{
@@ -19,4 +19,4 @@ instance_destroy()
 }
 
 
-
+}

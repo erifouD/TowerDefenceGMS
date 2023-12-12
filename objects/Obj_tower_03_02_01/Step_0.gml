@@ -12,7 +12,7 @@ nTimer+=spawn_time/room_speed
 
 if (nTimer>room_speed){
 
-if distance_to_object(Obj_MOB) < 150 {
+if distance_to_object(Obj_MOB) < 150 && global.pause_ok == 0{
 
 instance_create_layer(x+25 , y-75 , "Instances_2", Obj_ammo_02_ice);
 nTimer=0;

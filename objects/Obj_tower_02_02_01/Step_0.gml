@@ -18,7 +18,7 @@ nTimer+=spawn_time
 
 if (nTimer>room_speed){
 
-if distance_to_object(Obj_MOB) < 150 {
+if distance_to_object(Obj_MOB) < 150 && global.pause_ok == 0 {
 
 instance_create_layer(x+20 , y-50 , "Instances_2", Obj_ammo_02_fire);
 nTimer=0;
