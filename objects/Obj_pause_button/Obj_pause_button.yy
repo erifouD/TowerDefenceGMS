@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "AOE and System menu",
+    "path": "folders/Объекты/AOE and System menu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
