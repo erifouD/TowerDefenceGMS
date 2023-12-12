@@ -31,7 +31,7 @@ if (nTimer1>room_speed){
 	
 	if global.home_hp >0 {
 	
-	global.home_hp += real(-20);
+	global.home_hp += home_dmg;
 	
 	}
 	
