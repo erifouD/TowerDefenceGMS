@@ -201,7 +201,7 @@
     {"name":"Spr_bg_1_12","order":3,"path":"sprites/Spr_bg_1_12/Spr_bg_1_12.yy",},
     {"name":"Obj_Warning","order":2,"path":"objects/Obj_Warning/Obj_Warning.yy",},
     {"name":"Sprite_demo_01","order":65,"path":"sprites/Sprite_demo_01/Sprite_demo_01.yy",},
-    {"name":"Obj_exit_button","order":5,"path":"objects/Obj_exit_button/Obj_exit_button.yy",},
+    {"name":"Object120","order":5,"path":"objects/Object120/Object120.yy",},
     {"name":"Spr_bg_1_3","order":9,"path":"sprites/Spr_bg_1_3/Spr_bg_1_3.yy",},
     {"name":"Spr_place_check","order":2,"path":"sprites/Spr_place_check/Spr_place_check.yy",},
     {"name":"spr_wolf_mov_right","order":2,"path":"sprites/spr_wolf_mov_right/spr_wolf_mov_right.yy",},

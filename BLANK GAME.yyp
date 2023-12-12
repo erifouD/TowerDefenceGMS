@@ -366,7 +366,7 @@
     {"id":{"name":"Obj_Warning","path":"objects/Obj_Warning/Obj_Warning.yy",},},
     {"id":{"name":"Sprite_demo_01","path":"sprites/Sprite_demo_01/Sprite_demo_01.yy",},},
     {"id":{"name":"Spr_mob_02_top","path":"sprites/Spr_mob_02_top/Spr_mob_02_top.yy",},},
-    {"id":{"name":"Obj_exit_button","path":"objects/Obj_exit_button/Obj_exit_button.yy",},},
+    {"id":{"name":"Object120","path":"objects/Object120/Object120.yy",},},
     {"id":{"name":"Obj_tower300_02_01","path":"objects/Obj_tower300_02_01/Obj_tower300_02_01.yy",},},
     {"id":{"name":"Obj_AOE_button_01","path":"objects/Obj_AOE_button_01/Obj_AOE_button_01.yy",},},
     {"id":{"name":"Spr_bg_1_3","path":"sprites/Spr_bg_1_3/Spr_bg_1_3.yy",},},
