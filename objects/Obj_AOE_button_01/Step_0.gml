@@ -11,6 +11,14 @@ var _spd = clamp(_dist, 0, 10);
 spr_x += lengthdir_x(_spd, _dir);
 spr_y += lengthdir_y(_spd, _dir);
 
+if global.AOE_damage == 1{
+kd_start += real(0.03);
+pc = (kd_start / kd_end) * 100;
+
+
+if kd_start == kd_end
+global.AOE_damage = 0
+}
 
 
 

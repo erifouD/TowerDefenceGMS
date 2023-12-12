@@ -15,7 +15,7 @@ spr_y += lengthdir_y(_spd, _dir);
 
 
 if mouse_check_button_pressed(mb_right){
-global.AOE_damage = 0
+
  instance_destroy();
 }
 if create_zone == 1
