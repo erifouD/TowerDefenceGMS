@@ -11,7 +11,7 @@ shine_damage=1;
 
 if(health_new <= 0)
 {
-	global.score_money += +10;
+	global.score_money += my_price;
 
 	instance_destroy();
 

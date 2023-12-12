@@ -12,6 +12,9 @@ aoe_damage=0
 nTimer = 0;
 life_damag = 0
 nTimer1 = 0;
+nTimer2 = 0;
+nTimer3 = 0;
+nTimer4 = 0;
 
 
 

@@ -4,3 +4,4 @@ path_speed = 1;
 health = real(10);
 health_new = real(10);
 home_dmg = real(-10);
+my_price = 25

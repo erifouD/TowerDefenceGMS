@@ -9,5 +9,5 @@ if(health_new <= 0)
 
 	instance_destroy();
 
-	global.score_money += +10;
+	global.score_money += my_price;
 }
