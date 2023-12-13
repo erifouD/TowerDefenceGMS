@@ -150,6 +150,7 @@
     {"name":"spr_bg_w_23","order":7,"path":"sprites/spr_bg_w_23/spr_bg_w_23.yy",},
     {"name":"Obj_score_15","order":20,"path":"objects/Obj_score_15/Obj_score_15.yy",},
     {"name":"Sprite_demo_08","order":72,"path":"sprites/Sprite_demo_08/Sprite_demo_08.yy",},
+    {"name":"Spr_menu_info_01","order":101,"path":"sprites/Spr_menu_info_01/Spr_menu_info_01.yy",},
     {"name":"Spr_bg_1_16","order":6,"path":"sprites/Spr_bg_1_16/Spr_bg_1_16.yy",},
     {"name":"Spr_bg_1_6","order":12,"path":"sprites/Spr_bg_1_6/Spr_bg_1_6.yy",},
     {"name":"Sprite13","order":21,"path":"sprites/Sprite13/Sprite13.yy",},

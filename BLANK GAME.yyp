@@ -279,6 +279,7 @@
     {"id":{"name":"Obj_score_15","path":"objects/Obj_score_15/Obj_score_15.yy",},},
     {"id":{"name":"Obj_tower_003_02_menu","path":"objects/Obj_tower_003_02_menu/Obj_tower_003_02_menu.yy",},},
     {"id":{"name":"Sprite_demo_08","path":"sprites/Sprite_demo_08/Sprite_demo_08.yy",},},
+    {"id":{"name":"Spr_menu_info_01","path":"sprites/Spr_menu_info_01/Spr_menu_info_01.yy",},},
     {"id":{"name":"Spr_mob_01_left","path":"sprites/Spr_mob_01_left/Spr_mob_01_left.yy",},},
     {"id":{"name":"Obj_tower_01_01","path":"objects/Obj_tower_01_01/Obj_tower_01_01.yy",},},
     {"id":{"name":"Spr_bg_1_16","path":"sprites/Spr_bg_1_16/Spr_bg_1_16.yy",},},
