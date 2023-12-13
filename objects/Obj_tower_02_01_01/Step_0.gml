@@ -6,6 +6,15 @@ if !place_meeting(x, y, Obj_tower_tower_02_01_menu)
 effect_create_below(0, x + 30, y + -50, 0, $FF0616CE & $ffffff);
 
 
+
+
+
+
+
+
+
+
+
 }
 else {	
 	
