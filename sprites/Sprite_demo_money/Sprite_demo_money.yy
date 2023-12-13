@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Sprite_demo_money",
-  "bbox_bottom": 39,
+  "bbox_bottom": 37,
   "bbox_left": 0,
-  "bbox_right": 44,
+  "bbox_right": 34,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"90aecc68-7a54-473b-a278-d0dd20a8ab13",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b343b960-c863-4d23-938b-f516bf9d4d25",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 40,
+  "height": 38,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f454568f-a49c-4328-8121-63556e569e3b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9726a58b-5c51-4eac-b10f-83f7e28de805","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"90aecc68-7a54-473b-a278-d0dd20a8ab13","path":"sprites/Sprite_demo_money/Sprite_demo_money.yy",},},},"Disabled":false,"id":"8a26af7d-0fb0-44a3-bb20-fd3bc43b7d05","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b343b960-c863-4d23-938b-f516bf9d4d25","path":"sprites/Sprite_demo_money/Sprite_demo_money.yy",},},},"Disabled":false,"id":"980c0fac-576f-4d64-95fb-5719fc20bc74","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 45,
+  "width": 35,
 }
