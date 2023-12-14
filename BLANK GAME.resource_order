@@ -235,5 +235,6 @@
     {"name":"Spr_tower_04_02_menu","order":1,"path":"sprites/Spr_tower_04_02_menu/Spr_tower_04_02_menu.yy",},
     {"name":"Spr_pause_button","order":95,"path":"sprites/Spr_pause_button/Spr_pause_button.yy",},
     {"name":"Obj_ammo_03_big","order":6,"path":"objects/Obj_ammo_03_big/Obj_ammo_03_big.yy",},
+    {"name":"Font_meat","order":3,"path":"fonts/Font_meat/Font_meat.yy",},
   ],
 }
