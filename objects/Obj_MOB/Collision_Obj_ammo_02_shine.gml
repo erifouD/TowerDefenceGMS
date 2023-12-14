@@ -1,7 +1,7 @@
 hp_on = 1;
 
 
-	if shine_damage == 0{
+		if shine_damage == 0 && global.pause_ok == 0{
 		
 health_new += real(-0.5);
 pc = (health_new / health) * 100;
