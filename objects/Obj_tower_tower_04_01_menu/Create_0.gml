@@ -28,6 +28,12 @@ global.info_tower = 0;
 /// @DnDSaveInfo : "objectid" "Obj_tower_place_menu_exit"
 instance_create_layer(x + 108, y + 40, "Instances_1", Obj_tower_place_menu_exit);
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 580D19ED
+/// @DnDArgument : "var" "global.button_press"
+global.button_press = 0;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 3883EFA5

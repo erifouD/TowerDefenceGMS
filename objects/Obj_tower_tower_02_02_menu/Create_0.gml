@@ -51,3 +51,9 @@ instance_create_layer(x + 60, y + 40, "Instances_1", Obj_tower_place_menu_OK);
 /// @DnDArgument : "layer" ""Instances_1""
 /// @DnDSaveInfo : "objectid" "Obj_tower_tower_place_menu"
 instance_create_layer(x + -91, y + 40, "Instances_1", Obj_tower_tower_place_menu);
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 3D82044A
+/// @DnDArgument : "var" "global.button_press"
+global.button_press = 0;

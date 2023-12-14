@@ -17,6 +17,12 @@
 /// @DnDArgument : "var" "global.info_tower"
 global.info_tower = 0;
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 48288DB1
+/// @DnDArgument : "var" "global.button_press"
+global.button_press = 0;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 55EC6FD2

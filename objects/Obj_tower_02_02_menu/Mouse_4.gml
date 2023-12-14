@@ -1,5 +1,6 @@
 place = global.where_my_place
 global.info_tower = 22
+global.button_press = 44
 
 with(Obj_tower_02_02_01_img) instance_destroy();
 with(Obj_tower_place_img) instance_destroy();
