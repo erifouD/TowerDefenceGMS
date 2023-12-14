@@ -1,4 +1,4 @@
-if global.score_money >0
+if global.score_money >= 0
 
 	draw_set_color ( c_lime );
 	draw_set_font(Font_meat);
