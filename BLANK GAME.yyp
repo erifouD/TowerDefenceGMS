@@ -134,6 +134,7 @@
     {"id":{"name":"Obj_lvl1","path":"objects/Obj_lvl1/Obj_lvl1.yy",},},
     {"id":{"name":"Sprite_demo_04","path":"sprites/Sprite_demo_04/Sprite_demo_04.yy",},},
     {"id":{"name":"Sprite61","path":"sprites/Sprite61/Sprite61.yy",},},
+    {"id":{"name":"Spr_aoe_system_menu_pause","path":"sprites/Spr_aoe_system_menu_pause/Spr_aoe_system_menu_pause.yy",},},
     {"id":{"name":"Spr_place_1","path":"sprites/Spr_place_1/Spr_place_1.yy",},},
     {"id":{"name":"Spr_menu_ok01_pressed","path":"sprites/Spr_menu_ok01_pressed/Spr_menu_ok01_pressed.yy",},},
     {"id":{"name":"Obj_tower_place_menu","path":"objects/Obj_tower_place_menu/Obj_tower_place_menu.yy",},},
