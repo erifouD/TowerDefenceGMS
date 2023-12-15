@@ -1,3 +1,4 @@
+if global.pause_ok == 0{
 place = global.where_my_place
 
 //ICE 01
@@ -156,4 +157,6 @@ with(Obj_tower_tower_04_02_menu) instance_destroy();
 with(Obj_tower_tower_04_03_menu) instance_destroy()
 
 destroy_menu = 0;
+}
+
 }

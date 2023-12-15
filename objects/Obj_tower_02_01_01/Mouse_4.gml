@@ -1,4 +1,4 @@
-
+if global.pause_ok == 0{
 
 global.where_my_place = instance_nearest(x, y, Obj_tower_02_01_01);
 
@@ -66,4 +66,5 @@ with(Obj_tower_tower_04_03_menu) instance_destroy()
 	instance_create_layer(x + 0, y + 0, "Instances_img", Obj_tower_tower_02_01_menu);
 
 	global.menu_open = 1;
+}
 }
