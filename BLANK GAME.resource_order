@@ -216,6 +216,7 @@
     {"name":"Spr_bg_1","order":7,"path":"sprites/Spr_bg_1/Spr_bg_1.yy",},
     {"name":"Spr_tower_03_03","order":6,"path":"sprites/Spr_tower_03_03/Spr_tower_03_03.yy",},
     {"name":"scr_autocast_web","order":2,"path":"scripts/scr_autocast_web/scr_autocast_web.yy",},
+    {"name":"Spr_add_money","order":117,"path":"sprites/Spr_add_money/Spr_add_money.yy",},
     {"name":"Spr_tower_place_menu_lvl3","order":5,"path":"sprites/Spr_tower_place_menu_lvl3/Spr_tower_place_menu_lvl3.yy",},
     {"name":"Sp_menutower03","order":4,"path":"sprites/Sp_menutower03/Sp_menutower03.yy",},
     {"name":"Sprite_demo12102103105","order":6,"path":"sprites/Sprite_demo12102103105/Sprite_demo12102103105.yy",},
