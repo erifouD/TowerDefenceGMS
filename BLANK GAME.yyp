@@ -88,6 +88,7 @@
     {"id":{"name":"YaGames","path":"extensions/YaGames/YaGames.yy",},},
     {"id":{"name":"Room_0_lvl","path":"rooms/Room_0_lvl/Room_0_lvl.yy",},},
     {"id":{"name":"Obj_lvl2","path":"objects/Obj_lvl2/Obj_lvl2.yy",},},
+    {"id":{"name":"Spr_bg_1_52","path":"sprites/Spr_bg_1_52/Spr_bg_1_52.yy",},},
     {"id":{"name":"Sprite56","path":"sprites/Sprite56/Sprite56.yy",},},
     {"id":{"name":"Spr_score_15","path":"sprites/Spr_score_15/Spr_score_15.yy",},},
     {"id":{"name":"Spr_mob_01_right","path":"sprites/Spr_mob_01_right/Spr_mob_01_right.yy",},},

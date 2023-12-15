@@ -37,6 +37,7 @@
     {"name":"YaGames","order":1,"path":"extensions/YaGames/YaGames.yy",},
     {"name":"Room_0_lvl","order":1,"path":"rooms/Room_0_lvl/Room_0_lvl.yy",},
     {"name":"Obj_lvl2","order":13,"path":"objects/Obj_lvl2/Obj_lvl2.yy",},
+    {"name":"Spr_bg_1_52","order":28,"path":"sprites/Spr_bg_1_52/Spr_bg_1_52.yy",},
     {"name":"Sprite56","order":54,"path":"sprites/Sprite56/Sprite56.yy",},
     {"name":"Spr_score_15","order":98,"path":"sprites/Spr_score_15/Spr_score_15.yy",},
     {"name":"Spr_AOE_button_01","order":96,"path":"sprites/Spr_AOE_button_01/Spr_AOE_button_01.yy",},
