@@ -1,17 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_money",
+  "name": "Obj_lvl_done_menu_last",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "Done_menu",
+    "path": "folders/Объекты/Done_menu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -30,6 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": null,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Spr_lvl_done_menu_button",
+    "path": "sprites/Spr_lvl_done_menu_button/Spr_lvl_done_menu_button.yy",
+  },
   "visible": true,
 }

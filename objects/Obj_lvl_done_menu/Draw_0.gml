@@ -1,4 +1,5 @@
 draw_sprite(Spr_lvl_done_menu, 0, x + 0, y + 0);
+draw_sprite(Spr_lvl_done_menu_return, 0, x - 80, y - 100);
 if (global.lvl == 1){
 if global.lvl_stars_01 == 0
 draw_sprite(Spr_stars_00, 0, x + 50, y + 75);
