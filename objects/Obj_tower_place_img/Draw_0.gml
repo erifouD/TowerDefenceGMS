@@ -17,8 +17,8 @@ draw_sprite(Spr_Tower_place, 0, x + -5, y + -60);
 /// @DnDArgument : "y" "-33"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""
-/// @DnDArgument : "text" "+50"
-draw_text_transformed(x + 130, y + -33, "" + string(+50), 1, 1, 0);
+/// @DnDArgument : "text" "global.tower_destroy_price"
+draw_text_transformed(x + 130, y + -33, "" + string(global.tower_destroy_price), 1, 1, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1

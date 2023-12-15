@@ -1,6 +1,7 @@
 place = global.where_my_place
 global.info_tower = 3
 global.button_press = 2
+global.tower_destroy_price = 36
 
 
 with(Obj_tower_02_01_01_img) instance_destroy();

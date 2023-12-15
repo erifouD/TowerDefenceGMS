@@ -1,5 +1,5 @@
 global.where_my_place = instance_nearest(x, y, Obj_tower_place_01);
-
+			  
 if(global.menu_open == 0)
 {
 	instance_create_layer(x + 0, y + 0, "Instances_img", Obj_tower_place_menu);

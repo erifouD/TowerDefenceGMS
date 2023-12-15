@@ -105,7 +105,7 @@ else if(global.score_money >= 400)&& (global.info_tower == 32)
 //DESTROY
 else if(global.info_tower == 11)
 {
-	global.score_money += 50;
+	global.score_money += global.tower_destroy_price;
 	global.info_tower = 0
 	destroy_menu = 1
 	instance_create_layer(place.x + 0, place.y -54, "Instances_1", Obj_tower_place_01); 	
