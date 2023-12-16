@@ -117,6 +117,7 @@
     {"name":"Sprite_demo12207","order":14,"path":"sprites/Sprite_demo12207/Sprite_demo12207.yy",},
     {"name":"Spr_stars_01","order":82,"path":"sprites/Spr_stars_01/Spr_stars_01.yy",},
     {"name":"Spr_Tower_place","order":33,"path":"sprites/Spr_Tower_place/Spr_Tower_place.yy",},
+    {"name":"FontRus","order":4,"path":"fonts/FontRus/FontRus.yy",},
     {"name":"Sprite65","order":9,"path":"sprites/Sprite65/Sprite65.yy",},
     {"name":"Path3_1","order":5,"path":"paths/Path3_1/Path3_1.yy",},
     {"name":"Spr_mob_1","order":32,"path":"sprites/Spr_mob_1/Spr_mob_1.yy",},

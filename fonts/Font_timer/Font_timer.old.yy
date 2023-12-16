@@ -1,7 +1,7 @@
 {
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
-  "name": "Font_tower_info",
+  "name": "Font_timer",
   "AntiAlias": 1,
   "applyKerning": 0,
   "ascender": 15,
@@ -125,7 +125,6 @@
   "pointRounding": 0,
   "ranges": [
     {"lower":32,"upper":127,},
-    {"lower":1040,"upper":1103,},
     {"lower":9647,"upper":9647,},
   ],
   "regenerateBitmap": false,
