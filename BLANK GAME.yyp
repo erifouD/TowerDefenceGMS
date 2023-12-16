@@ -51,6 +51,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Water","folderPath":"folders/Спрайты/Water.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Stacked pixel.ttf","CopyToMask":-1,"filePath":"datafiles",},
@@ -235,6 +236,7 @@
     {"id":{"name":"spr_bg_w_29","path":"sprites/spr_bg_w_29/spr_bg_w_29.yy",},},
     {"id":{"name":"Spr_bg_1_11","path":"sprites/Spr_bg_1_11/Spr_bg_1_11.yy",},},
     {"id":{"name":"Sprite_demo_03","path":"sprites/Sprite_demo_03/Sprite_demo_03.yy",},},
+    {"id":{"name":"Sprite220","path":"sprites/Sprite220/Sprite220.yy",},},
     {"id":{"name":"Obj_tower_1_cho","path":"objects/Obj_tower_1_cho/Obj_tower_1_cho.yy",},},
     {"id":{"name":"Spr_lvl_done_menu_button","path":"sprites/Spr_lvl_done_menu_button/Spr_lvl_done_menu_button.yy",},},
     {"id":{"name":"Sp_home","path":"sprites/Sp_home/Sp_home.yy",},},
@@ -271,6 +273,7 @@
     {"id":{"name":"Obj_tower_tower_01_01_menu_exit","path":"objects/Obj_tower_tower_01_01_menu_exit/Obj_tower_tower_01_01_menu_exit.yy",},},
     {"id":{"name":"Sprite_demo_wave","path":"sprites/Sprite_demo_wave/Sprite_demo_wave.yy",},},
     {"id":{"name":"spr_bg_w_3","path":"sprites/spr_bg_w_3/spr_bg_w_3.yy",},},
+    {"id":{"name":"Spr_bg_1_55","path":"sprites/Spr_bg_1_55/Spr_bg_1_55.yy",},},
     {"id":{"name":"Spr_tower_place_menu_exit","path":"sprites/Spr_tower_place_menu_exit/Spr_tower_place_menu_exit.yy",},},
     {"id":{"name":"Spr_tower_04_01","path":"sprites/Spr_tower_04_01/Spr_tower_04_01.yy",},},
     {"id":{"name":"Obj_tower_place_menu_OK","path":"objects/Obj_tower_place_menu_OK/Obj_tower_place_menu_OK.yy",},},

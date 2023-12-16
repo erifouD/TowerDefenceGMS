@@ -18,6 +18,7 @@
     {"name":"Road","order":87,"path":"folders/Спрайты/Road.yy",},
     {"name":"Tower_place","order":89,"path":"folders/Спрайты/Tower_place.yy",},
     {"name":"Water","order":64,"path":"folders/Спрайты/Water.yy",},
+    {"name":"Растения","order":119,"path":"folders/Спрайты/Растения.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_stars_02","order":79,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},
@@ -152,6 +153,7 @@
     {"name":"Ammo_big_path_left","order":3,"path":"paths/Ammo_big_path_left/Ammo_big_path_left.yy",},
     {"name":"Obj_score_75","order":22,"path":"objects/Obj_score_75/Obj_score_75.yy",},
     {"name":"Sprite_demo_wave","order":76,"path":"sprites/Sprite_demo_wave/Sprite_demo_wave.yy",},
+    {"name":"Spr_bg_1_55","order":31,"path":"sprites/Spr_bg_1_55/Spr_bg_1_55.yy",},
     {"name":"Spr_tower_place_menu_exit","order":27,"path":"sprites/Spr_tower_place_menu_exit/Spr_tower_place_menu_exit.yy",},
     {"name":"Spr_tower_04_01","order":26,"path":"sprites/Spr_tower_04_01/Spr_tower_04_01.yy",},
     {"name":"Obj_Timer","order":3,"path":"objects/Obj_Timer/Obj_Timer.yy",},

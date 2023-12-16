@@ -81,7 +81,7 @@ part_emitter_burst(sys_particle, emit_particle, part_particle, 10)
 	
 // Setup:
 sys_particle = part_system_create()
-part_system_layer(sys_particle, layer)
+part_system_layer(sys_particle, "Instances_img_0")
 part_particle = part_type_create()
 part_type_shape(part_particle, pt_shape_flare)
 part_type_size(part_particle, 0, 0.10, 0, 0)
@@ -98,7 +98,7 @@ emit_particle = part_emitter_create(sys_particle)
 
 
 // To Use Particle:
-part_emitter_region(sys_particle, emit_particle, x + 20, x + 40, y - 50, y - 50, ps_shape_rectangle, ps_distr_gaussian)
+part_emitter_region(sys_particle, emit_particle, x + 20, x + 40, y - 47, y - 47, ps_shape_rectangle, ps_distr_gaussian)
 part_emitter_burst(sys_particle, emit_particle, part_particle, 10)
 
 	 step += 1
