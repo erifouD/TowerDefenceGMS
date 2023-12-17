@@ -145,6 +145,7 @@
     {"id":{"name":"Spr_menu_ok01_pressed","path":"sprites/Spr_menu_ok01_pressed/Spr_menu_ok01_pressed.yy",},},
     {"id":{"name":"Obj_tower_place_menu","path":"objects/Obj_tower_place_menu/Obj_tower_place_menu.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"spr_bg_w_37","path":"sprites/spr_bg_w_37/spr_bg_w_37.yy",},},
     {"id":{"name":"spr_bg_w_17","path":"sprites/spr_bg_w_17/spr_bg_w_17.yy",},},
     {"id":{"name":"Spr_lvl_done_menu","path":"sprites/Spr_lvl_done_menu/Spr_lvl_done_menu.yy",},},
     {"id":{"name":"Spr_bg_1_7","path":"sprites/Spr_bg_1_7/Spr_bg_1_7.yy",},},
