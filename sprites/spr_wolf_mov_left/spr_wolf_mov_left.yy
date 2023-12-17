@@ -31,7 +31,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6cd08dd1-eea7-4577-8bc5-7b0ba4ac5405","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 9,
   "parent": {
     "name": "Mob_Wolf",
     "path": "folders/Спрайты/Mob_Wolf.yy",
@@ -76,7 +76,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 20,
-    "yorigin": 20,
+    "yorigin": 13,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

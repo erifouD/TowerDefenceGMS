@@ -8,7 +8,10 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_MOB","path":"objects/Obj_MOB/Obj_MOB.yy",},"propertyId":{"name":"HP_my","path":"objects/Obj_MOB/Obj_MOB.yy",},"value":"15",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_MOB","path":"objects/Obj_MOB/Obj_MOB.yy",},"propertyId":{"name":"HP_min","path":"objects/Obj_MOB/Obj_MOB.yy",},"value":"15",},
+  ],
   "parent": {
     "name": "MOBS",
     "path": "folders/Объекты/MOBS.yy",

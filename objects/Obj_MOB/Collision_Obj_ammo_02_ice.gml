@@ -3,11 +3,10 @@ hp_on = 1;
 ice_damage = 1;
 
 
-health_new += real(-1.6);
-pc = (health_new / health) * 100;
+HP_min += real(-1.6);
+PC_my = (HP_min / HP_my) * 100;
 
-
-if(health_new <= 0)
+if(HP_min <= 0)
 {
 	global.score_money += my_price;
 

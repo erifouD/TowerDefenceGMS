@@ -8,7 +8,10 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_MOB","path":"objects/Obj_MOB/Obj_MOB.yy",},"propertyId":{"name":"HP_my","path":"objects/Obj_MOB/Obj_MOB.yy",},"value":"10",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_MOB","path":"objects/Obj_MOB/Obj_MOB.yy",},"propertyId":{"name":"HP_min","path":"objects/Obj_MOB/Obj_MOB.yy",},"value":"10",},
+  ],
   "parent": {
     "name": "MOBS",
     "path": "folders/Объекты/MOBS.yy",
@@ -39,8 +42,8 @@
   "solid": false,
   "spriteId": null,
   "spriteMaskId": {
-    "name": "spr_wolf_mov_left",
-    "path": "sprites/spr_wolf_mov_left/spr_wolf_mov_left.yy",
+    "name": "Spr_mob_02_top",
+    "path": "sprites/Spr_mob_02_top/Spr_mob_02_top.yy",
   },
   "visible": true,
 }
