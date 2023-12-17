@@ -122,6 +122,7 @@
     {"name":"Spr_Tower_place","order":33,"path":"sprites/Spr_Tower_place/Spr_Tower_place.yy",},
     {"name":"FontRus","order":4,"path":"fonts/FontRus/FontRus.yy",},
     {"name":"Sprite65","order":9,"path":"sprites/Sprite65/Sprite65.yy",},
+    {"name":"Spr_bg_1_56","order":32,"path":"sprites/Spr_bg_1_56/Spr_bg_1_56.yy",},
     {"name":"Path3_1","order":5,"path":"paths/Path3_1/Path3_1.yy",},
     {"name":"Spr_mob_1","order":32,"path":"sprites/Spr_mob_1/Spr_mob_1.yy",},
     {"name":"Obj_ammo_03_shine","order":8,"path":"objects/Obj_ammo_03_shine/Obj_ammo_03_shine.yy",},
@@ -260,5 +261,6 @@
     {"name":"Spr_pause_button","order":95,"path":"sprites/Spr_pause_button/Spr_pause_button.yy",},
     {"name":"Obj_ammo_03_big","order":6,"path":"objects/Obj_ammo_03_big/Obj_ammo_03_big.yy",},
     {"name":"Font_meat","order":3,"path":"fonts/Font_meat/Font_meat.yy",},
+    {"name":"Obj_effect","order":28,"path":"objects/Obj_effect/Obj_effect.yy",},
   ],
 }

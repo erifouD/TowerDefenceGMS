@@ -157,6 +157,7 @@ with(Obj_tower_tower_04_02_menu) instance_destroy();
 with(Obj_tower_tower_04_03_menu) instance_destroy()
 
 destroy_menu = 0;
+
 }
 
 }

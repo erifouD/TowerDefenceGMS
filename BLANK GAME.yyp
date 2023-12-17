@@ -49,9 +49,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Road","folderPath":"folders/Спрайты/Road.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tower_place","folderPath":"folders/Спрайты/Tower_place.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Water","folderPath":"folders/Спрайты/Water.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Stacked pixel.ttf","CopyToMask":-1,"filePath":"datafiles",},
@@ -225,6 +225,7 @@
     {"id":{"name":"Spr_Tower_place","path":"sprites/Spr_Tower_place/Spr_Tower_place.yy",},},
     {"id":{"name":"FontRus","path":"fonts/FontRus/FontRus.yy",},},
     {"id":{"name":"Sprite65","path":"sprites/Sprite65/Sprite65.yy",},},
+    {"id":{"name":"Spr_bg_1_56","path":"sprites/Spr_bg_1_56/Spr_bg_1_56.yy",},},
     {"id":{"name":"Obj_tower_tower_place_menu","path":"objects/Obj_tower_tower_place_menu/Obj_tower_tower_place_menu.yy",},},
     {"id":{"name":"Obj_tower_03_03_01_img","path":"objects/Obj_tower_03_03_01_img/Obj_tower_03_03_01_img.yy",},},
     {"id":{"name":"Obj_tower_04_03_01_img","path":"objects/Obj_tower_04_03_01_img/Obj_tower_04_03_01_img.yy",},},
@@ -436,6 +437,7 @@
     {"id":{"name":"Spr_pause_button","path":"sprites/Spr_pause_button/Spr_pause_button.yy",},},
     {"id":{"name":"Obj_ammo_03_big","path":"objects/Obj_ammo_03_big/Obj_ammo_03_big.yy",},},
     {"id":{"name":"Font_meat","path":"fonts/Font_meat/Font_meat.yy",},},
+    {"id":{"name":"Obj_effect","path":"objects/Obj_effect/Obj_effect.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

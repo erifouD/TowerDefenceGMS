@@ -13,3 +13,8 @@ else {
 image_speed = 0.2;
 path_speed = 1;
 }
+
+
+	
+
+

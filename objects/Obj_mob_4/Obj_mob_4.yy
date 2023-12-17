@@ -39,8 +39,8 @@
   "solid": false,
   "spriteId": null,
   "spriteMaskId": {
-    "name": "spr_wolf_mov_down",
-    "path": "sprites/spr_wolf_mov_down/spr_wolf_mov_down.yy",
+    "name": "spr_wolf_mov_left",
+    "path": "sprites/spr_wolf_mov_left/spr_wolf_mov_left.yy",
   },
   "visible": true,
 }

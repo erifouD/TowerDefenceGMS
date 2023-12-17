@@ -1,17 +1,13 @@
 draw_sprite(Spr_tower_04_01, 0, x + 0, y + 0);
 
 
-
-/*
-part_type_destroy(part_particle)
-part_emitter_destroy(sys_particle, emit_particle)
-part_system_destroy(sys_particle)
+	
 
 
-// Particle Designer Stuff (Unnecessary elsewhere)
-Position: 1
-Frequency: 0
-Number: 10
+
+// To Use Particle:
+part_emitter_region(global.sys_particle_01, global.emit_particle_01, x + 20, x + 40, y - 47, y - 47, ps_shape_rectangle, ps_distr_gaussian)
+part_emitter_burst(global.sys_particle_01, global.emit_particle_01, global.part_particle_01, 10)
 
 
 
