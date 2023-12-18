@@ -2,7 +2,7 @@ hp_on = 1;
 
 
 if aoe_damage == 0{
-HP_min += real(-3);
+HP_min += real(-1);
 PC_my = (HP_min / HP_my) * 100;
 
 
