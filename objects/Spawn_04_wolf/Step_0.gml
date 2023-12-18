@@ -1,4 +1,7 @@
-nTimer+=fps/room_speed
+random_time = (random_range(0.1, 6))
+spawn_speed = fps/random_time
+
+nTimer+=spawn_speed/room_speed
 
 
 
@@ -11,6 +14,7 @@ spawn_y = (random_range(0, 15));
 instance_create_layer(x - spawn_x , y -spawn_y , "Instances_0", Obj_mob_4);
 nTimer=0;
 spawn_mob1 +=1
+random_time = 0
 }
 }
 else

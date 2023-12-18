@@ -3,6 +3,6 @@ spawn = false;
 spawn_mob1 =0
 spawn_x = 0
 spawn_y = 0
-
+random_time = 0
 
 
