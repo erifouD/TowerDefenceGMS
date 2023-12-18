@@ -1,3 +1,4 @@
+if place_empty(x, y, Obj_tower_place_menu){
 if global.pause_ok == 0{
 global.where_my_place = instance_nearest(x, y, Obj_tower_place_01);
 			  
@@ -60,4 +61,6 @@ with(Obj_tower_tower_04_03_menu) instance_destroy()
 	global.menu_open = 1;
 	global.info_tower = 0
 }
+}
+
 }

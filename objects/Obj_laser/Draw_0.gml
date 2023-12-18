@@ -9,12 +9,12 @@ if (point_distance(x, y, ex, ey) < 150){
 
 
 	
-  // draw_line_width_color(x+8, y+8, ex+30, ey+30, 3, c_orange,c_red);
+   draw_line_width_color(x+8, y+8, ex+30, ey+30, 3, c_orange,c_red);
    
  direction = point_direction(x,y,ex,ey)
 
 
-flame = part_system_create()
+/*flame = part_system_create()
 
 flame_part = part_type_create()
 part_type_shape(flame_part, pt_shape_explosion)
@@ -35,7 +35,7 @@ flame_emit = part_emitter_create(flame)
 part_emitter_region(flame, flame_emit, x,x,y,y,ps_shape_rectangle,ps_distr_gaussian)
 part_emitter_burst(flame, flame_emit, flame_part, 18)
 
-   
+   */
   
 	
 }   

@@ -72,9 +72,9 @@ instance_create_layer(x + 9, y + 40, "Instances_1", Obj_tower_04_01_menu);
 /// @DnDArgument : "ypos" "40"
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "Obj_tower_place_menu_OK"
-/// @DnDArgument : "layer" ""Instances_1""
+/// @DnDArgument : "layer" ""Instances_img_2""
 /// @DnDSaveInfo : "objectid" "Obj_tower_place_menu_OK"
-instance_create_layer(x + 60, y + 40, "Instances_1", Obj_tower_place_menu_OK);
+instance_create_layer(x + 60, y + 40, "Instances_img_2", Obj_tower_place_menu_OK);
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
