@@ -9,6 +9,9 @@ if global.lvl == 1{
 		global.count_dragon = 0
 		global.count_goblin = 12
 		global.count_wolf = 0
+		global.count_dragon_wait = 0
+		global.count_goblin_wait = 0
+		global.count_wolf_wait = 0
         //instance_create_layer(x +15, y + 55, "Instances_1", Spawn_02_goblin);
         instance_create_layer(Obj_spawn_place_01.x +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_02_goblin);
         //instance_create_layer(x +15, y + 55, "Instances_1", Spawn_03_boss_knight);
@@ -19,10 +22,12 @@ if global.lvl == 1{
     case 2:
     // Spawn LVL1 Волна 2
 		global.count_dragon = 0
-		global.count_goblin = 10
+		global.count_goblin = 0
 		global.count_wolf = 4
-
-        instance_create_layer(Obj_spawn_place_01.x +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_02_goblin);
+		global.count_dragon_wait = 0
+		global.count_goblin_wait = 10
+		global.count_wolf_wait = 0
+        instance_create_layer(Obj_spawn_place_01.x +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_02_goblin_wait);
 instance_create_layer(Obj_spawn_place_01.x +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_04_wolf);
         global.new_wave = 0;
         global.last_wave = 1;
