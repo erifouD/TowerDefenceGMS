@@ -33,6 +33,7 @@
     {"name":"Spr_most_mini","order":114,"path":"sprites/Spr_most_mini/Spr_most_mini.yy",},
     {"name":"Obj_STATUS","order":4,"path":"objects/Obj_STATUS/Obj_STATUS.yy",},
     {"name":"Sprite_demo12102","order":3,"path":"sprites/Sprite_demo12102/Sprite_demo12102.yy",},
+    {"name":"Room4","order":4,"path":"rooms/Room4/Room4.yy",},
     {"name":"Sprite72","order":57,"path":"sprites/Sprite72/Sprite72.yy",},
     {"name":"Spr_tower_003_01","order":56,"path":"sprites/Spr_tower_003_01/Spr_tower_003_01.yy",},
     {"name":"Sprite_demo3","order":55,"path":"sprites/Sprite_demo3/Sprite_demo3.yy",},

@@ -82,6 +82,7 @@
     {"id":{"name":"Sprite_demo12102","path":"sprites/Sprite_demo12102/Sprite_demo12102.yy",},},
     {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},},
     {"id":{"name":"Obj_tower_tower_003_02_menu","path":"objects/Obj_tower_tower_003_02_menu/Obj_tower_tower_003_02_menu.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Sprite72","path":"sprites/Sprite72/Sprite72.yy",},},
     {"id":{"name":"Spr_tower_003_01","path":"sprites/Spr_tower_003_01/Spr_tower_003_01.yy",},},
     {"id":{"name":"Sprite_demo3","path":"sprites/Sprite_demo3/Sprite_demo3.yy",},},
@@ -460,6 +461,7 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
