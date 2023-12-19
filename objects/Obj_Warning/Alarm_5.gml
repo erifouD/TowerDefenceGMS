@@ -88,8 +88,12 @@ if global.lvl == 3{
 		global.count_dragon = 0
 		global.count_goblin = 12
 		global.count_wolf = 5
+		global.count_dragon_wait = 0
+		global.count_goblin_wait = 0
+		global.count_wolf_wait = 7
 		//place_01
         instance_create_layer(Obj_spawn_place_01.x  -10, Obj_spawn_place_01.y + 45, "Instances_1", Spawn_02_goblin);
+		instance_create_layer(Obj_spawn_place_01.x  -10, Obj_spawn_place_01.y + 45, "Instances_1", Spawn_04_wolf_wait);
 		//place_02
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y - 20, "Instances_1", Spawn_04_wolf);
         global.new_wave = 0;
