@@ -49,10 +49,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Road","folderPath":"folders/Спрайты/Road.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tower_place","folderPath":"folders/Спрайты/Tower_place.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Water","folderPath":"folders/Спрайты/Water.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Жара","folderPath":"folders/Спрайты/Жара.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Жара","folderPath":"folders/Спрайты/Жара.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Stacked pixel.ttf","CopyToMask":-1,"filePath":"datafiles",},
