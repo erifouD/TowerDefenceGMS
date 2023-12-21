@@ -232,6 +232,7 @@
     {"id":{"name":"Spr_mob_03_down","path":"sprites/Spr_mob_03_down/Spr_mob_03_down.yy",},},
     {"id":{"name":"Obj_MOB","path":"objects/Obj_MOB/Obj_MOB.yy",},},
     {"id":{"name":"Sprite_demo9","path":"sprites/Sprite_demo9/Sprite_demo9.yy",},},
+    {"id":{"name":"Spr_fire","path":"sprites/Spr_fire/Spr_fire.yy",},},
     {"id":{"name":"o_resize","path":"objects/o_resize/o_resize.yy",},},
     {"id":{"name":"Spr_lava_27_01","path":"sprites/Spr_lava_27_01/Spr_lava_27_01.yy",},},
     {"id":{"name":"Obj_laser","path":"objects/Obj_laser/Obj_laser.yy",},},

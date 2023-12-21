@@ -132,6 +132,7 @@
     {"name":"Spr_tower_03_01","order":38,"path":"sprites/Spr_tower_03_01/Spr_tower_03_01.yy",},
     {"name":"Spr_score_25","order":99,"path":"sprites/Spr_score_25/Spr_score_25.yy",},
     {"name":"Sprite_demo9","order":11,"path":"sprites/Sprite_demo9/Sprite_demo9.yy",},
+    {"name":"Spr_fire","order":123,"path":"sprites/Spr_fire/Spr_fire.yy",},
     {"name":"o_resize","order":2,"path":"objects/o_resize/o_resize.yy",},
     {"name":"Spr_lava_27_01","order":41,"path":"sprites/Spr_lava_27_01/Spr_lava_27_01.yy",},
     {"name":"Spr_bg_1_8","order":14,"path":"sprites/Spr_bg_1_8/Spr_bg_1_8.yy",},

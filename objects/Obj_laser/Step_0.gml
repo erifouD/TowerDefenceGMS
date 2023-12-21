@@ -1,0 +1,1 @@
+//effect_create_below(ef_ring,x,y,0,make_color_rgb(255,224,192))
