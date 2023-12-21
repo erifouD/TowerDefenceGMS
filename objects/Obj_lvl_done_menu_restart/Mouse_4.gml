@@ -17,6 +17,9 @@ part_system_destroy(global.sys_particle_05)
 part_type_destroy(global.part_particle_06)
 part_emitter_destroy(global.sys_particle_06, global.emit_particle_06)
 part_system_destroy(global.sys_particle_06)
+part_type_destroy(global.part_particle_07)
+part_emitter_destroy(global.sys_particle_07, global.emit_particle_07)
+part_system_destroy(global.sys_particle_07)
 
 global.effect_restart = 1
 

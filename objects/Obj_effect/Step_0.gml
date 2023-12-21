@@ -107,6 +107,24 @@ part_type_blend(global.part_particle_06, false)
 part_type_life(global.part_particle_06, 50, 0)
 global.emit_particle_06 = part_emitter_create(global.sys_particle_06)
 
+// Setup Fire Tower 2:
+global.sys_particle_07 = part_system_create()
+part_system_layer(global.sys_particle_07, "Effect_1")
+global.part_particle_07 = part_type_create()
+//part_type_sprite ( global.part_particle_06, Spr_fire, 1 , 0 , 0 );
+part_type_shape(global.part_particle_07, pt_shape_cloud)
+part_type_size(global.part_particle_07, 0, 0.4, 0, 0)
+part_type_scale(global.part_particle_07, 1, 1)
+part_type_color_mix(global.part_particle_07, 255, 30975)
+part_type_alpha3(global.part_particle_07, 0.5, 0.5, 1)
+part_type_speed(global.part_particle_07, 0, 0.5, 0, 0)
+part_type_direction(global.part_particle_07, 0, 360, 0, 0)
+part_type_gravity(global.part_particle_07, 0.05, 90)
+part_type_orientation(global.part_particle_07, 0, 360, 0, 0, 0)
+part_type_blend(global.part_particle_07, false)
+part_type_life(global.part_particle_07, 5, 0)
+global.emit_particle_07 = part_emitter_create(global.sys_particle_07)
+
 
 global.effect_restart = 0
 }

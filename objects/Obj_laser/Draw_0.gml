@@ -10,16 +10,25 @@ if (point_distance(x, y, ex, ey) < 150){
 
 //Fire 01
 	if distance_to_object(Obj_tower_02_01_01) < 50{
+// To Use Particle:
+part_emitter_region(global.sys_particle_07, global.emit_particle_07, x + 0, ex+30, y - 30, ey+30, ps_shape_line, ps_distr_linear)
+part_emitter_burst(global.sys_particle_07, global.emit_particle_07, global.part_particle_07, 30)
 
 draw_line_width_color(x-0, y-30, ex+30, ey+30, 3, c_orange,c_red);
 	}
 	//Fire 02
 	else if distance_to_object(Obj_tower_02_02_01) < 50{
+// To Use Particle:
+part_emitter_region(global.sys_particle_07, global.emit_particle_07, x + 0, ex+30, y - 40, ey+30, ps_shape_line, ps_distr_linear)
+part_emitter_burst(global.sys_particle_07, global.emit_particle_07, global.part_particle_07, 30)
 
 draw_line_width_color(x-0, y-40, ex+30, ey+30, 3, c_orange,c_red);
 	}
 	//Fire 03
 	else if distance_to_object(Obj_tower_02_03_01) < 50{
+// To Use Particle:
+part_emitter_region(global.sys_particle_07, global.emit_particle_07, x + 0, ex+30, y - 80, ey+30, ps_shape_line, ps_distr_linear)
+part_emitter_burst(global.sys_particle_07, global.emit_particle_07, global.part_particle_07, 30)
 
 draw_line_width_color(x-0, y-80, ex+30, ey+30, 3, c_orange,c_red);
 	}
