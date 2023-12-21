@@ -8,16 +8,8 @@ if (point_distance(x, y, ex, ey) < 150)
 	
 	if(global.status==0)
 	{instance_destroy();
-	}
-
-
-	
-	
+	}	
 }   
-	else {
-	 
-	instance_destroy();
-	
-	
-	
+	else {	 
+	instance_destroy();	
 	}

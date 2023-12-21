@@ -158,6 +158,7 @@
     {"name":"Spr_lava_04","order":3,"path":"sprites/Spr_lava_04/Spr_lava_04.yy",},
     {"name":"Sprite_demo16","order":17,"path":"sprites/Sprite_demo16/Sprite_demo16.yy",},
     {"name":"Obj_ammo_03_shine","order":8,"path":"objects/Obj_ammo_03_shine/Obj_ammo_03_shine.yy",},
+    {"name":"Obj_pricel","order":1,"path":"objects/Obj_pricel/Obj_pricel.yy",},
     {"name":"Spr_lava_14","order":12,"path":"sprites/Spr_lava_14/Spr_lava_14.yy",},
     {"name":"spr_bg_w_29","order":13,"path":"sprites/spr_bg_w_29/spr_bg_w_29.yy",},
     {"name":"Spr_bg_1_11","order":2,"path":"sprites/Spr_bg_1_11/Spr_bg_1_11.yy",},

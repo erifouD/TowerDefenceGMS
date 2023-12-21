@@ -268,6 +268,7 @@
     {"id":{"name":"Sprite_demo16","path":"sprites/Sprite_demo16/Sprite_demo16.yy",},},
     {"id":{"name":"spr_bg_w_10","path":"sprites/spr_bg_w_10/spr_bg_w_10.yy",},},
     {"id":{"name":"Obj_ammo_03_shine","path":"objects/Obj_ammo_03_shine/Obj_ammo_03_shine.yy",},},
+    {"id":{"name":"Obj_pricel","path":"objects/Obj_pricel/Obj_pricel.yy",},},
     {"id":{"name":"browser_hdpi","path":"extensions/browser_hdpi/browser_hdpi.yy",},},
     {"id":{"name":"Spr_lava_14","path":"sprites/Spr_lava_14/Spr_lava_14.yy",},},
     {"id":{"name":"spr_bg_w_29","path":"sprites/spr_bg_w_29/spr_bg_w_29.yy",},},
