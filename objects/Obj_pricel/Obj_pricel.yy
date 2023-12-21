@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Tower_02",
-    "path": "folders/Объекты/PLACE_01/Tower_02.yy",
+    "name": "PLACE_01",
+    "path": "folders/Объекты/PLACE_01.yy",
   },
   "parentObjectId": null,
   "persistent": false,
