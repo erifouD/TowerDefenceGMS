@@ -1,6 +1,8 @@
 spawn_time = fps
+spawn_time1 = fps/4
 nTimer+=spawn_time
 nTimer1+=spawn_time/room_speed
+nTimer2+=spawn_time1/room_speed
 
 
 if (nTimer1>room_speed){
@@ -56,6 +58,27 @@ nTimer=0;
 }}
 
 
+
+if (nTimer2>room_speed){
+if distance_to_object(Obj_MOB) < 150 && global.pause_ok == 0{
+	
+	//EARTH 01
+	if distance_to_object(Obj_tower_003_01_01) < 50{		
+instance_create_layer(x-10 , y-20 , "Instances_2", Obj_ammo_01_big);
+	}
+	//EARTH 02
+	if distance_to_object(Obj_tower_003_02_01) < 50{		
+instance_create_layer(x-10 , y-30 , "Instances_2", Obj_ammo_02_big);
+	}
+	//EARTH 03
+	if distance_to_object(Obj_tower_003_03_01) < 50{		
+instance_create_layer(x-10 , y-40 , "Instances_2", Obj_ammo_03_big);
+	}
+	
+	}
+
+nTimer2 = 0
+}
 
 
 
