@@ -1,6 +1,11 @@
 if global.pause_ok == 0{
 place = global.where_my_place
 
+
+
+
+
+
 //ICE 01
 if(global.score_money >= 75)&& (global.info_tower == 1)
 {
@@ -9,6 +14,9 @@ if(global.score_money >= 75)&& (global.info_tower == 1)
 	
 	destroy_menu = 1
 		instance_create_layer(place.x + 0, place.y + 54, "Instances_1", Obj_tower_03_01_01); 
+		
+		
+		
 }
 //ICE 02
 else if(global.score_money >= 160)&& (global.info_tower == 21)

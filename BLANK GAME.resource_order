@@ -241,6 +241,7 @@
     {"name":"spr_wolf_mov_up","order":3,"path":"sprites/spr_wolf_mov_up/spr_wolf_mov_up.yy",},
     {"name":"Spr_bg_1_53","order":29,"path":"sprites/Spr_bg_1_53/Spr_bg_1_53.yy",},
     {"name":"spr_bg_w_19","order":3,"path":"sprites/spr_bg_w_19/spr_bg_w_19.yy",},
+    {"name":"Obj_save","order":34,"path":"objects/Obj_save/Obj_save.yy",},
     {"name":"Obj_mouse","order":27,"path":"objects/Obj_mouse/Obj_mouse.yy",},
     {"name":"Ammo_01_big","order":19,"path":"sprites/Ammo_01_big/Ammo_01_big.yy",},
     {"name":"Sprite_demo_02","order":66,"path":"sprites/Sprite_demo_02/Sprite_demo_02.yy",},

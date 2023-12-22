@@ -25,6 +25,12 @@ switch (global.lvl){
 		else if (point_distance(x, y, poin2x, poin2y) < 100)
 		path_start(Path3_1, 1, path_action_stop, false);	
 		break;
+	case 4:
+		 if (point_distance(x, y, poin1x, poin1y) < 100)
+		path_start(Path4_1, 1, path_action_stop, false);
+		else if (point_distance(x, y, poin2x, poin2y) < 100)
+		path_start(Path4_2, 1, path_action_stop, false);	
+		break;
 
 }
 
