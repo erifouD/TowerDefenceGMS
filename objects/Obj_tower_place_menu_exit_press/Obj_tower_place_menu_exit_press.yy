@@ -1,17 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_exit_button",
+  "name": "Obj_tower_place_menu_exit_press",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "AOE and System menu",
-    "path": "folders/Объекты/AOE and System menu.yy",
+    "name": "PLACE_01",
+    "path": "folders/Объекты/PLACE_01.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -31,8 +30,8 @@
   "solid": false,
   "spriteId": null,
   "spriteMaskId": {
-    "name": "Spr_AOE_button_01",
-    "path": "sprites/Spr_AOE_button_01/Spr_AOE_button_01.yy",
+    "name": "Spr_tower_place_menu_exit",
+    "path": "sprites/Spr_tower_place_menu_exit/Spr_tower_place_menu_exit.yy",
   },
   "visible": true,
 }
