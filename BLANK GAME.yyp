@@ -42,6 +42,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fire","folderPath":"folders/Спрайты/Fire.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Grass","folderPath":"folders/Спрайты/Grass.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Спрайты/GUI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"lava","folderPath":"folders/Спрайты/lava.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_01","folderPath":"folders/Спрайты/Mob_01.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_02","folderPath":"folders/Спрайты/Mob_02.yy",},
@@ -55,7 +56,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Спрайты/GUI.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Stacked pixel.ttf","CopyToMask":-1,"filePath":"datafiles",},
@@ -97,6 +97,7 @@
     {"id":{"name":"Sprite_demo3","path":"sprites/Sprite_demo3/Sprite_demo3.yy",},},
     {"id":{"name":"Obj_ammo_01_shine","path":"objects/Obj_ammo_01_shine/Obj_ammo_01_shine.yy",},},
     {"id":{"name":"Obj_home","path":"objects/Obj_home/Obj_home.yy",},},
+    {"id":{"name":"Spr_lava_68","path":"sprites/Spr_lava_68/Spr_lava_68.yy",},},
     {"id":{"name":"YaGames","path":"extensions/YaGames/YaGames.yy",},},
     {"id":{"name":"Room_0_lvl","path":"rooms/Room_0_lvl/Room_0_lvl.yy",},},
     {"id":{"name":"Obj_lvl2","path":"objects/Obj_lvl2/Obj_lvl2.yy",},},

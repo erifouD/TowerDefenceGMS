@@ -15,6 +15,7 @@
     {"name":"Tower_04","order":10,"path":"folders/Объекты/PLACE_01/Tower_04.yy",},
     {"name":"Fire","order":59,"path":"folders/Спрайты/Fire.yy",},
     {"name":"Grass","order":87,"path":"folders/Спрайты/Grass.yy",},
+    {"name":"GUI","order":119,"path":"folders/Спрайты/GUI.yy",},
     {"name":"lava","order":116,"path":"folders/Спрайты/lava.yy",},
     {"name":"Mob_01","order":60,"path":"folders/Спрайты/Mob_01.yy",},
     {"name":"Mob_02","order":61,"path":"folders/Спрайты/Mob_02.yy",},
@@ -26,7 +27,6 @@
     {"name":"Water","order":63,"path":"folders/Спрайты/Water.yy",},
     {"name":"Жара","order":115,"path":"folders/Спрайты/Жара.yy",},
     {"name":"Растения","order":114,"path":"folders/Спрайты/Растения.yy",},
-    {"name":"GUI","order":119,"path":"folders/Спрайты/GUI.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_stars_02","order":78,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},
@@ -49,6 +49,7 @@
     {"name":"Sprite72","order":56,"path":"sprites/Sprite72/Sprite72.yy",},
     {"name":"Spr_tower_003_01","order":55,"path":"sprites/Spr_tower_003_01/Spr_tower_003_01.yy",},
     {"name":"Sprite_demo3","order":54,"path":"sprites/Sprite_demo3/Sprite_demo3.yy",},
+    {"name":"Spr_lava_68","order":69,"path":"sprites/Spr_lava_68/Spr_lava_68.yy",},
     {"name":"YaGames","order":1,"path":"extensions/YaGames/YaGames.yy",},
     {"name":"Room_0_lvl","order":1,"path":"rooms/Room_0_lvl/Room_0_lvl.yy",},
     {"name":"Obj_lvl2","order":13,"path":"objects/Obj_lvl2/Obj_lvl2.yy",},
