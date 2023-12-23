@@ -1,4 +1,4 @@
-
+if global.home_hp > 0{
 
 part_type_destroy(global.part_particle_01)
 part_emitter_destroy(global.sys_particle_01, global.emit_particle_01)
@@ -55,3 +55,4 @@ room_goto_next();
 
 
 
+}
