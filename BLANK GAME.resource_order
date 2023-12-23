@@ -73,6 +73,7 @@
     {"name":"Spr_lava_38","order":37,"path":"sprites/Spr_lava_38/Spr_lava_38.yy",},
     {"name":"Sprite_Warning","order":74,"path":"sprites/Sprite_Warning/Sprite_Warning.yy",},
     {"name":"Sp_menutower02","order":50,"path":"sprites/Sp_menutower02/Sp_menutower02.yy",},
+    {"name":"Spr_lava_03_01","order":68,"path":"sprites/Spr_lava_03_01/Spr_lava_03_01.yy",},
     {"name":"Font3","order":2,"path":"fonts/Font3/Font3.yy",},
     {"name":"Sprite_grass_01","order":49,"path":"sprites/Sprite_grass_01/Sprite_grass_01.yy",},
     {"name":"Spr_tower_02_03","order":48,"path":"sprites/Spr_tower_02_03/Spr_tower_02_03.yy",},
