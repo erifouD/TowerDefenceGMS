@@ -10,10 +10,10 @@ AOE_life = room_speed/20
 nTimer3  +=spawn_time/room_speed
 nTimer4  +=spawn_time/room_speed
 
-if ice_damage==1 {
+if ice_damage==true {
 nTimer2  +=spawn_time/room_speed
 if (nTimer2>room_speed){
-ice_damage=0;
+ice_damage= false;
 nTimer2=0;
 }}
  if (nTimer3>room_speed) && (shine_damage==1){

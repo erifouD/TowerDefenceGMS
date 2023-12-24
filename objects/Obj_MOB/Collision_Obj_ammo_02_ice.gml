@@ -1,6 +1,6 @@
 hp_on = 1;
 
-ice_damage = 1;
+ice_damage = true;
 
 
 HP_min += real(-1.6);

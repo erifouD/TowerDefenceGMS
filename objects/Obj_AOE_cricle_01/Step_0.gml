@@ -7,7 +7,7 @@ var _dir = point_direction(spr_x, spr_y,mouse_x, mouse_y);
 // Here the maximum movement speed will be 10px per step,
 // unless the instance is closer to the mouse than 10,
 // in which case it will be _dist speed.
-var _spd = clamp(_dist, 0, 10);
+var _spd = clamp(_dist, 0, 100);
 // Now move the instance
 spr_x += lengthdir_x(_spd, _dir);
 spr_y += lengthdir_y(_spd, _dir);
@@ -26,6 +26,7 @@ instance_create_layer(mouse_x, mouse_y, "Instances_img", Obj_AOE_effect_01);
 
 
 
+image_angle += 90;
 
 
 

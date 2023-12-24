@@ -1,6 +1,6 @@
 hp_on = 1;
 
-ice_damage = 1;
+ice_damage = true;
 HP_min += real(-2.1);
 PC_my = (HP_min / HP_my) * 100;
 
