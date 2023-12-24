@@ -45,6 +45,7 @@ nTimer1 = 0;
 nTimer2 = 0;
 nTimer3 = 0;
 nTimer4 = 0;
+use_aoe = 0
 
 
 

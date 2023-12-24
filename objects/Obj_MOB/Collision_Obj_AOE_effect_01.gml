@@ -1,12 +1,13 @@
 hp_on = 1;
 
 
-if global.AOE_damage == 1{
+if global.AOE_damage == 1 && use_aoe == 0{
 
 
 
-HP_min += real(-3);
+HP_min += real(-10);
 PC_my = (HP_min / HP_my) * 100;
+use_aoe = 1
 }
 if(HP_min <= 0)
 {

@@ -15,7 +15,7 @@ if (not isMap(async_load)) {
             break;
             case "rewardReceived":
                 // The video ads has been successfully completed. The reward has been received.
-				global.score_money += 499
+				global.score_money += 500
             break;
             case "rewardClosed":
                 // The video ads is closed
