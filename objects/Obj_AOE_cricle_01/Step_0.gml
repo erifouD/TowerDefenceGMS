@@ -15,12 +15,13 @@ spr_y += lengthdir_y(_spd, _dir);
 
 
 if mouse_check_button_pressed(mb_right){
-
+global.press_s1_system_menu = 0
  instance_destroy();
 }
 if create_zone == 1
 if mouse_check_button_pressed(mb_left){
 instance_create_layer(mouse_x, mouse_y, "Instances_img", Obj_AOE_effect_01);
+global.press_s1_system_menu = 0
  instance_destroy();
 }
 

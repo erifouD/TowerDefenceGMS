@@ -126,8 +126,33 @@ part_type_life(global.part_particle_07, 5, 0)
 global.emit_particle_07 = part_emitter_create(global.sys_particle_07)
 
 
+
+// Setup:
+global.sys_particle_08 = part_system_create()
+part_system_layer(global.sys_particle_08, layer)
+global.part_particle_08 = part_type_create()
+part_type_shape(global.part_particle_08, pt_shape_sphere)
+part_type_size(global.part_particle_08, 0, 0.10, 0, 0)
+part_type_scale(global.part_particle_08, 1, 1)
+part_type_color3(global.part_particle_08, 65280, 65382, 2424576)
+part_type_alpha3(global.part_particle_08, 0, 1, 0)
+part_type_speed(global.part_particle_08, 0, 0.01, 0, 0)
+part_type_direction(global.part_particle_08, 0, 0, 0, 0)
+part_type_gravity(global.part_particle_08, 0.05, 90)
+part_type_orientation(global.part_particle_08, 0, 0, 0, 0, 0)
+part_type_blend(global.part_particle_08, 1)
+part_type_life(global.part_particle_08, 28, 0)
+global.emit_particle_08 = part_emitter_create(global.sys_particle_08)
+
+
+
 global.effect_restart = 0
 }
+
+
+
+
+
 
 
 

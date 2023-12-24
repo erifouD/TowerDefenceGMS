@@ -5,7 +5,7 @@ if global.AOE_damage == 1 && use_aoe == 0{
 
 
 
-HP_min += real(-10);
+HP_min += real(-9);
 PC_my = (HP_min / HP_my) * 100;
 use_aoe = 1
 }
