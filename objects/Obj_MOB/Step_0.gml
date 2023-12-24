@@ -38,6 +38,7 @@ if (nTimer1>room_speed){
 	
 	global.home_hp += home_dmg;
 	
+	
 	}
 	
 }

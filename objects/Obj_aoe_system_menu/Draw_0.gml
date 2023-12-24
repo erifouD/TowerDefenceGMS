@@ -11,6 +11,12 @@ else
 draw_sprite(Spr_aoe_system_menu, 0, x + 0, y + 0);
 
 
-
+if global.score_money >= 450
 draw_sprite(Spr_aoe_s1_price, 0, x +24, y - 16);
+else
+draw_sprite(Spr_aoe_s1_price_red, 0, x +24, y - 16);
+
+if global.score_money >= 320
 draw_sprite(Spr_aoe_s2_price, 0, x +75, y - 16);
+else
+draw_sprite(Spr_aoe_s2_price_red, 0, x +75, y - 16);
