@@ -9,3 +9,8 @@ if global.press_s1_system_menu == 1
 draw_sprite(Spr_aoe_system_menu_s2_press, 0, x + 0, y + 0);
 else 
 draw_sprite(Spr_aoe_system_menu, 0, x + 0, y + 0);
+
+
+
+draw_sprite(Spr_aoe_s1_price, 0, x +24, y - 16);
+draw_sprite(Spr_aoe_s2_price, 0, x +75, y - 16);

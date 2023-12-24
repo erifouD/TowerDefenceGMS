@@ -1,6 +1,6 @@
 
 if global.AOE_damage == 0 && global.pause_ok == 0
-if global.score_money >= 500
+if global.score_money >= 450
 if !instance_exists(Obj_AOE_cricle_01)
 if !instance_exists(Obj_lvl_done_menu){
 
