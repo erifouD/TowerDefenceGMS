@@ -56,6 +56,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"LVL Buttons","folderPath":"folders/Объекты/LVL Buttons.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Stacked pixel.ttf","CopyToMask":-1,"filePath":"datafiles",},
@@ -215,6 +216,7 @@
     {"id":{"name":"Sprite_demo12102103","path":"sprites/Sprite_demo12102103/Sprite_demo12102103.yy",},},
     {"id":{"name":"Obj_tower_003_01_menu","path":"objects/Obj_tower_003_01_menu/Obj_tower_003_01_menu.yy",},},
     {"id":{"name":"Obj_tower_03_03_menu","path":"objects/Obj_tower_03_03_menu/Obj_tower_03_03_menu.yy",},},
+    {"id":{"name":"Obj_lvl8","path":"objects/Obj_lvl8/Obj_lvl8.yy",},},
     {"id":{"name":"Obj_mob_kill","path":"objects/Obj_mob_kill/Obj_mob_kill.yy",},},
     {"id":{"name":"Spr_lava_49","path":"sprites/Spr_lava_49/Spr_lava_49.yy",},},
     {"id":{"name":"Obj_tower_place_01","path":"objects/Obj_tower_place_01/Obj_tower_place_01.yy",},},
