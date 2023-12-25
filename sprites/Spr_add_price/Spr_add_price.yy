@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Spr_add_money",
-  "bbox_bottom": 95,
-  "bbox_left": 2,
-  "bbox_right": 130,
-  "bbox_top": 20,
+  "name": "Spr_add_price",
+  "bbox_bottom": 24,
+  "bbox_left": 6,
+  "bbox_right": 54,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5e0efa53-0fce-45d9-a7c8-7c8d233c3b47",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"823fdb6a-7c25-4000-b83b-b37dc3e771d2",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 107,
+  "height": 25,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f5388b7c-4676-499b-9c6d-7671ec982f09","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"438cd575-2fd2-4bea-8cc6-0dacc33c3cff","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Spr_add_money",
+    "name": "Spr_add_price",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5e0efa53-0fce-45d9-a7c8-7c8d233c3b47","path":"sprites/Spr_add_money/Spr_add_money.yy",},},},"Disabled":false,"id":"fbe89c2f-ee0c-4802-bb90-cf95dd33fc89","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"823fdb6a-7c25-4000-b83b-b37dc3e771d2","path":"sprites/Spr_add_price/Spr_add_price.yy",},},},"Disabled":false,"id":"5b742850-6ddb-4320-a17b-dd6e7f6cf457","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 135,
+  "width": 60,
 }

@@ -430,6 +430,7 @@
     {"id":{"name":"Spr_lava_63","path":"sprites/Spr_lava_63/Spr_lava_63.yy",},},
     {"id":{"name":"Spr_menu_ice_pressed","path":"sprites/Spr_menu_ice_pressed/Spr_menu_ice_pressed.yy",},},
     {"id":{"name":"Spr_tower_1","path":"sprites/Spr_tower_1/Spr_tower_1.yy",},},
+    {"id":{"name":"Spr_add_price","path":"sprites/Spr_add_price/Spr_add_price.yy",},},
     {"id":{"name":"Spr_lava_64","path":"sprites/Spr_lava_64/Spr_lava_64.yy",},},
     {"id":{"name":"Obj_pause_button","path":"objects/Obj_pause_button/Obj_pause_button.yy",},},
     {"id":{"name":"Spr_tower_place_menu_lvl2","path":"sprites/Spr_tower_place_menu_lvl2/Spr_tower_place_menu_lvl2.yy",},},
