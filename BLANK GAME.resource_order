@@ -126,6 +126,7 @@
     {"name":"Spawn_02_goblin_wait","order":31,"path":"objects/Spawn_02_goblin_wait/Spawn_02_goblin_wait.yy",},
     {"name":"spr_bg_w_26","order":10,"path":"sprites/spr_bg_w_26/spr_bg_w_26.yy",},
     {"name":"Obj_FPS","order":33,"path":"objects/Obj_FPS/Obj_FPS.yy",},
+    {"name":"Room8","order":6,"path":"rooms/Room8/Room8.yy",},
     {"name":"Spr_lava_46","order":46,"path":"sprites/Spr_lava_46/Spr_lava_46.yy",},
     {"name":"Spr_lava_41","order":40,"path":"sprites/Spr_lava_41/Spr_lava_41.yy",},
     {"name":"Sp_tower_2","order":41,"path":"sprites/Sp_tower_2/Sp_tower_2.yy",},
