@@ -201,6 +201,40 @@ if global.lvl == 4{
 
 
 
+// Spawn LVL23
+if global.lvl == 23{
+   
+    switch (global.wave){
+    case 1:
+	 // Spawn LVL23 Волна 1
+		global.count_dragon = 0
+		global.count_goblin = 5
+		global.count_wolf = 0
+		global.count_skeleton_bow = 14
+		global.count_dragon_wait = 0
+		global.count_goblin_wait = 0
+		global.count_wolf_wait = 0
+		//place_01
+        instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y - 20, "Instances_1", Spawn_02_goblin);
+		instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y -20, "Instances_1", Spawn_05_skeleton_bow);
+
+        global.new_wave = 0;
+		global.wave_count = 1
+      
+		break;
+		
+	case 2:
+	
+      
+		break;
+		
+	case 3:  
+	
+		break;
+    }
+}
+
+
 
 
 
