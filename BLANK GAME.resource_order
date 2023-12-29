@@ -21,6 +21,7 @@
     {"name":"Mob_01","order":60,"path":"folders/Спрайты/Mob_01.yy",},
     {"name":"Mob_02","order":61,"path":"folders/Спрайты/Mob_02.yy",},
     {"name":"Mob_03","order":62,"path":"folders/Спрайты/Mob_03.yy",},
+    {"name":"Mob_Skeleton_bow","order":123,"path":"folders/Спрайты/Mob_Skeleton_bow.yy",},
     {"name":"Mob_Wolf","order":89,"path":"folders/Спрайты/Mob_Wolf.yy",},
     {"name":"Road","order":86,"path":"folders/Спрайты/Road.yy",},
     {"name":"Snow","order":117,"path":"folders/Спрайты/Snow.yy",},
@@ -28,7 +29,6 @@
     {"name":"Water","order":63,"path":"folders/Спрайты/Water.yy",},
     {"name":"Жара","order":115,"path":"folders/Спрайты/Жара.yy",},
     {"name":"Растения","order":114,"path":"folders/Спрайты/Растения.yy",},
-    {"name":"Mob_Skeleton_bow","order":123,"path":"folders/Спрайты/Mob_Skeleton_bow.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_stars_02","order":78,"path":"sprites/Spr_stars_02/Spr_stars_02.yy",},

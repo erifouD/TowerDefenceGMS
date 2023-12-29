@@ -48,6 +48,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_01","folderPath":"folders/Спрайты/Mob_01.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_02","folderPath":"folders/Спрайты/Mob_02.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_03","folderPath":"folders/Спрайты/Mob_03.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_Skeleton_bow","folderPath":"folders/Спрайты/Mob_Skeleton_bow.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_Wolf","folderPath":"folders/Спрайты/Mob_Wolf.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Road","folderPath":"folders/Спрайты/Road.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Snow","folderPath":"folders/Спрайты/Snow.yy",},
@@ -57,7 +58,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Растения","folderPath":"folders/Спрайты/Растения.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Mob_Skeleton_bow","folderPath":"folders/Спрайты/Mob_Skeleton_bow.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Stacked pixel.ttf","CopyToMask":-1,"filePath":"datafiles",},
