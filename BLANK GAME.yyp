@@ -269,6 +269,7 @@
     {"id":{"name":"Obj_tower_02_01_menu","path":"objects/Obj_tower_02_01_menu/Obj_tower_02_01_menu.yy",},},
     {"id":{"name":"Sprite63","path":"sprites/Sprite63/Sprite63.yy",},},
     {"id":{"name":"Ammo_01_fire","path":"sprites/Ammo_01_fire/Ammo_01_fire.yy",},},
+    {"id":{"name":"Spr_heat_042","path":"sprites/Spr_heat_042/Spr_heat_042.yy",},},
     {"id":{"name":"Spr_lvl_done_menu_bad","path":"sprites/Spr_lvl_done_menu_bad/Spr_lvl_done_menu_bad.yy",},},
     {"id":{"name":"Spr_lava_47","path":"sprites/Spr_lava_47/Spr_lava_47.yy",},},
     {"id":{"name":"Spr_lava_44","path":"sprites/Spr_lava_44/Spr_lava_44.yy",},},

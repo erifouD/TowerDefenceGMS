@@ -178,6 +178,7 @@
     {"name":"Spr_heat_025","order":22,"path":"sprites/Spr_heat_025/Spr_heat_025.yy",},
     {"name":"Sprite63","order":7,"path":"sprites/Sprite63/Sprite63.yy",},
     {"name":"Ammo_01_fire","order":39,"path":"sprites/Ammo_01_fire/Ammo_01_fire.yy",},
+    {"name":"Spr_heat_042","order":39,"path":"sprites/Spr_heat_042/Spr_heat_042.yy",},
     {"name":"Spr_lvl_done_menu_bad","order":18,"path":"sprites/Spr_lvl_done_menu_bad/Spr_lvl_done_menu_bad.yy",},
     {"name":"Spr_lava_47","order":47,"path":"sprites/Spr_lava_47/Spr_lava_47.yy",},
     {"name":"Spr_lava_44","order":44,"path":"sprites/Spr_lava_44/Spr_lava_44.yy",},
