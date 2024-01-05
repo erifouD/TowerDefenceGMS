@@ -1,7 +1,7 @@
-global.lvl = 16;
+global.lvl = 11;
 if !object_get_visible(Obj_Warning)
 object_set_visible (Obj_Warning, true )
 
 if !object_get_visible(Obj_Timer)
 object_set_visible (Obj_Timer, true )
-room_goto(Room16);
+room_goto(Room11);
