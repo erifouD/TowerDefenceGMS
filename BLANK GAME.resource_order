@@ -415,6 +415,7 @@
     {"name":"Obj_mob_5","order":4,"path":"objects/Obj_mob_5/Obj_mob_5.yy",},
     {"name":"Spr_heat_037","order":34,"path":"sprites/Spr_heat_037/Spr_heat_037.yy",},
     {"name":"Sp_menutower03","order":4,"path":"sprites/Sp_menutower03/Sp_menutower03.yy",},
+    {"name":"spr_bg_w_41","order":25,"path":"sprites/spr_bg_w_41/spr_bg_w_41.yy",},
     {"name":"Sprite_demo12102103105","order":6,"path":"sprites/Sprite_demo12102103105/Sprite_demo12102103105.yy",},
     {"name":"Obj_AOE_cricle_01","order":1,"path":"objects/Obj_AOE_cricle_01/Obj_AOE_cricle_01.yy",},
     {"name":"Sprite_demo6","order":8,"path":"sprites/Sprite_demo6/Sprite_demo6.yy",},
