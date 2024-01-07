@@ -382,6 +382,7 @@
     {"id":{"name":"spr_bg_w_11","path":"sprites/spr_bg_w_11/spr_bg_w_11.yy",},},
     {"id":{"name":"Spr_score_75","path":"sprites/Spr_score_75/Spr_score_75.yy",},},
     {"id":{"name":"Obj_wave_count","path":"objects/Obj_wave_count/Obj_wave_count.yy",},},
+    {"id":{"name":"spr_bg_w_42","path":"sprites/spr_bg_w_42/spr_bg_w_42.yy",},},
     {"id":{"name":"Spr_mouse","path":"sprites/Spr_mouse/Spr_mouse.yy",},},
     {"id":{"name":"Spr_damage_wave","path":"sprites/Spr_damage_wave/Spr_damage_wave.yy",},},
     {"id":{"name":"Ammo_big_path_left","path":"paths/Ammo_big_path_left/Ammo_big_path_left.yy",},},

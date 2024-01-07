@@ -268,6 +268,7 @@
     {"name":"Spr_bg_1_57","order":33,"path":"sprites/Spr_bg_1_57/Spr_bg_1_57.yy",},
     {"name":"Spr_score_75","order":95,"path":"sprites/Spr_score_75/Spr_score_75.yy",},
     {"name":"Obj_wave_count","order":5,"path":"objects/Obj_wave_count/Obj_wave_count.yy",},
+    {"name":"spr_bg_w_42","order":26,"path":"sprites/spr_bg_w_42/spr_bg_w_42.yy",},
     {"name":"Spr_mouse","order":106,"path":"sprites/Spr_mouse/Spr_mouse.yy",},
     {"name":"Spr_damage_wave","order":84,"path":"sprites/Spr_damage_wave/Spr_damage_wave.yy",},
     {"name":"Ammo_big_path_left","order":3,"path":"paths/Ammo_big_path_left/Ammo_big_path_left.yy",},
