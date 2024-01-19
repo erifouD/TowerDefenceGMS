@@ -144,6 +144,7 @@
     {"id":{"name":"Spr_lava_38","path":"sprites/Spr_lava_38/Spr_lava_38.yy",},},
     {"id":{"name":"Sprite_Warning","path":"sprites/Sprite_Warning/Sprite_Warning.yy",},},
     {"id":{"name":"Obj_tower_tower_04_02_menu","path":"objects/Obj_tower_tower_04_02_menu/Obj_tower_tower_04_02_menu.yy",},},
+    {"id":{"name":"Obj_lvl25","path":"objects/Obj_lvl25/Obj_lvl25.yy",},},
     {"id":{"name":"Sp_menutower02","path":"sprites/Sp_menutower02/Sp_menutower02.yy",},},
     {"id":{"name":"Spr_heat_028","path":"sprites/Spr_heat_028/Spr_heat_028.yy",},},
     {"id":{"name":"Obj_lvl5","path":"objects/Obj_lvl5/Obj_lvl5.yy",},},
@@ -563,6 +564,7 @@
     {"id":{"name":"Spr_tower_003_02","path":"sprites/Spr_tower_003_02/Spr_tower_003_02.yy",},},
     {"id":{"name":"Obj_tower_02_03_01_img","path":"objects/Obj_tower_02_03_01_img/Obj_tower_02_03_01_img.yy",},},
     {"id":{"name":"Obj_tower_02_01_01","path":"objects/Obj_tower_02_01_01/Obj_tower_02_01_01.yy",},},
+    {"id":{"name":"Room25","path":"rooms/Room25/Room25.yy",},},
     {"id":{"name":"Spr_bg_1","path":"sprites/Spr_bg_1/Spr_bg_1.yy",},},
     {"id":{"name":"Spr_lava_66","path":"sprites/Spr_lava_66/Spr_lava_66.yy",},},
     {"id":{"name":"Spr_mob_skeleton_bow_top","path":"sprites/Spr_mob_skeleton_bow_top/Spr_mob_skeleton_bow_top.yy",},},
@@ -660,6 +662,7 @@
     {"roomId":{"name":"Room20","path":"rooms/Room20/Room20.yy",},},
     {"roomId":{"name":"Room22","path":"rooms/Room22/Room22.yy",},},
     {"roomId":{"name":"Room23","path":"rooms/Room23/Room23.yy",},},
+    {"roomId":{"name":"Room25","path":"rooms/Room25/Room25.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
