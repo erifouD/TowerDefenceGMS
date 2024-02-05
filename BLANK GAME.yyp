@@ -68,6 +68,7 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"Spr_snow_066","path":"sprites/Spr_snow_066/Spr_snow_066.yy",},},
     {"id":{"name":"Spr_stars_02","path":"sprites/Spr_stars_02/Spr_stars_02.yy",},},
     {"id":{"name":"Spr_snow_056","path":"sprites/Spr_snow_056/Spr_snow_056.yy",},},
     {"id":{"name":"Spawn_02_goblin","path":"objects/Spawn_02_goblin/Spawn_02_goblin.yy",},},
@@ -573,6 +574,7 @@
     {"id":{"name":"Obj_tower_place_img","path":"objects/Obj_tower_place_img/Obj_tower_place_img.yy",},},
     {"id":{"name":"Spr_lava_23","path":"sprites/Spr_lava_23/Spr_lava_23.yy",},},
     {"id":{"name":"Spr_snow_061","path":"sprites/Spr_snow_061/Spr_snow_061.yy",},},
+    {"id":{"name":"Spr_snow_067","path":"sprites/Spr_snow_067/Spr_snow_067.yy",},},
     {"id":{"name":"Spr_snow_040","path":"sprites/Spr_snow_040/Spr_snow_040.yy",},},
     {"id":{"name":"spr_bg_w_8","path":"sprites/spr_bg_w_8/spr_bg_w_8.yy",},},
     {"id":{"name":"Obj_menu_tower01","path":"objects/Obj_menu_tower01/Obj_menu_tower01.yy",},},
