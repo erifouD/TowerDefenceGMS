@@ -110,6 +110,7 @@
     {"name":"Spr_lava_57","order":57,"path":"sprites/Spr_lava_57/Spr_lava_57.yy",},
     {"name":"Spr_lava_38","order":37,"path":"sprites/Spr_lava_38/Spr_lava_38.yy",},
     {"name":"Sprite_Warning","order":72,"path":"sprites/Sprite_Warning/Sprite_Warning.yy",},
+    {"name":"Spr_heat_046","order":43,"path":"sprites/Spr_heat_046/Spr_heat_046.yy",},
     {"name":"Obj_lvl25","order":15,"path":"objects/Obj_lvl25/Obj_lvl25.yy",},
     {"name":"Sp_menutower02","order":48,"path":"sprites/Sp_menutower02/Sp_menutower02.yy",},
     {"name":"Spr_heat_028","order":25,"path":"sprites/Spr_heat_028/Spr_heat_028.yy",},
