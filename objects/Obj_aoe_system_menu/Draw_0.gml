@@ -7,7 +7,7 @@ if global.press_home_system_menu == 1
 draw_sprite(Spr_aoe_system_menu_exit_press, 0, x + 0, y + 0);
 if global.press_s1_system_menu == 1
 draw_sprite(Spr_aoe_system_menu_s2_press, 0, x + 0, y + 0);
-else 
+else if global.pause_ok == 0 && global.press_home_system_menu == 0
 draw_sprite(Spr_aoe_system_menu, 0, x + 0, y + 0);
 
 

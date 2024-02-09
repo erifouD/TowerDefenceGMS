@@ -4,7 +4,7 @@
   "name": "Sp_home",
   "bbox_bottom": 79,
   "bbox_left": 0,
-  "bbox_right": 79,
+  "bbox_right": 129,
   "bbox_top": 0,
   "bboxMode": 1,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 80,
+  "width": 130,
 }

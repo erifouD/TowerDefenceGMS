@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Объекты",
-    "path": "folders/Объекты.yy",
+    "name": "LVL Buttons",
+    "path": "folders/Объекты/LVL Buttons.yy",
   },
   "parentObjectId": null,
   "persistent": false,
