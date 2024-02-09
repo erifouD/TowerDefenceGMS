@@ -139,7 +139,7 @@
     {"lower":9647,"upper":9647,},
   ],
   "regenerateBitmap": false,
-  "sampleText": "ыфывфывыфвфывуцйуйц",
+  "sampleText": " 1 2 10 55",
   "sdfSpread": 8,
   "size": 22.0,
   "styleName": "Medium",

@@ -2,7 +2,7 @@ draw_sprite(Spr_lvl1, 0, x + 0, y + 0);
 draw_set_color ( c_lime );
 	draw_set_font(Font_meat);
 	
-draw_text(x -5, y -12,  + string("25"));
+draw_text(x -13, y -13,   + string("25"));
 
 if (global.lvl >0) {
 if global.lvl_stars_25 == 0

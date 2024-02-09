@@ -275,7 +275,7 @@ if global.lvl == 6{
 		global.count_wolf_wait = 3
 		//place_01
         //instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_02_goblin);
-		//instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_04_wolf_wait);
+		instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_04_wolf_wait);
 		instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_06_pig);
 		//place_02
 		//instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_02_goblin);
@@ -292,7 +292,8 @@ if global.lvl == 6{
 		global.count_wolf = 0
 		global.count_goblin_wait = 19
 		//place_01
-        instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_01_dragon);		
+        instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_02_goblin_wait);
+		instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_01_dragon);		
 		//place_02
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_02_goblin);
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_04_wolf);
@@ -314,7 +315,7 @@ if global.lvl == 6{
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_02_goblin);
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_06_pig);
         global.new_wave = 0;
-		global.wave_count = 2
+		global.wave_count = 3
       
 		break;
 		
@@ -331,9 +332,10 @@ if global.lvl == 6{
 		  instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_06_pig);
 		//place_02		
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_01_dragon);
-        global.new_wave = 0;
+       	instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_04_wolf);
+	   global.new_wave = 0;
         global.last_wave = 1;
-        global.wave_count = 3;
+        global.wave_count = 4;
         global.wave = 0;
 		break;
     }
