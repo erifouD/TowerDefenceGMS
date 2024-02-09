@@ -300,16 +300,35 @@ if global.lvl == 6{
 		global.wave_count = 2
       
 		break;
-		
-	case 3:  
-	// Spawn LVL6 Волна 3
+	case 3:
+	 // Spawn LVL6 Волна 3
 		global.count_dragon = 0
+		global.count_goblin = 7
+		global.count_wolf = 16
+		global.count_pig = 14
+		global.count_goblin_wait = 19
+		//place_01
+			instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_02_goblin_wait);
+        instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_04_wolf);		
+		//place_02
+		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_02_goblin);
+		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_06_pig);
+        global.new_wave = 0;
+		global.wave_count = 2
+      
+		break;
+		
+	case 4:  
+	// Spawn LVL6 Волна 4
+		global.count_dragon = 21
 		global.count_goblin = 0
 		global.count_wolf = 11
+		global.count_pig = 8
 		global.count_goblin_wait = 25
 		//place_01
         instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_03_boss_knight);		
-		  instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_03_boss_knight);
+		  instance_create_layer(Obj_spawn_place_01.x  +15, Obj_spawn_place_01.y + 55, "Instances_1", Spawn_02_goblin_wait);
+		  instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_06_pig);
 		//place_02		
 		instance_create_layer(Obj_spawn_place_02.x +15, Obj_spawn_place_02.y +55, "Instances_1", Spawn_01_dragon);
         global.new_wave = 0;
